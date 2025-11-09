@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fog accident',en,Impacts,#ffff00,#ffff00,2,0.5
-'fog flights',en,Impacts,#ffff00,#ffff00,2,0.5
 'fog dewpoint',en,Causes,#00ffff,#00ffff,2,0.5
+'fog flights',en,Impacts,#ffff00,#ffff00,2,0.43475041999999997
 'fog light',en,Mitigation,#00ff00,#00ff00,2,0.4345036895454545
 'fog slow down',en,Mitigation,#00ff00,#00ff00,2,0.4344970145454545
 'fog climate change',en,Causes,#00ffff,#00ffff,2,0.429955445
