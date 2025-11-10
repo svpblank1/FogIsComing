@@ -8,4 +8,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fog dewpoint',en,Causes,#00ffff,#00ffff,1,0.36140002775
 'fog waether',en,Hazard,#ff0000,#ff0000,1,0.3612499999999999
 'fog climate change',en,Causes,#00ffff,#00ffff,3,0.3192778155124999
-'fog alert',en,Adaptation,#0000ff,#0000ff,3,0.2757530889860128
+'fog alert',en,Adaptation,#0000ff,#0000ff,2,0.23439108563811087
