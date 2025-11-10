@@ -1,7 +1,9 @@
 domain,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
 bringatrailer.com,-0.08888888888888888,0.10999438818457406,0.43194444444444446,0.0019641855032958996,2.0
+biztoc.com,0.0,1.0,0.0,1.0,1.0
 economictimes.indiatimes.com,0.0,1.0,0.0,1.0,1.0
 english.khabarhub.com,0.0,1.0,0.0,1.0,1.0
+freerepublic.com,0.0,1.0,0.0,1.0,1.0
 iso.500px.com,0.0,1.0,0.0,1.0,1.0
 journals.plos.org,0.0,1.0,0.0,1.0,1.0
 www.forbes.com,0.0,1.0,0.0,1.0,1.0

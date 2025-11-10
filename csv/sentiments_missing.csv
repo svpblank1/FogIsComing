@@ -1,21 +1,30 @@
 ,phrase,label,sentiment,subjectivity,language,count
 five,five,CARDINAL,,,en,6
 winter,winter,DATE,,,en,4
+American,American,NORP,,,en,3
 Thunderbird,Thunderbird,PRODUCT,,,en,3
-Sport Coupe,Sport Coupe,PRODUCT,,,en,2
+mornings,mornings,TIME,,,en,2
+first,first,ORDINAL,,,en,2
+1894,1894,DATE,,,en,2
+nearly 50 years,nearly 50 years,DATE,,,en,2
+19th-century,19th-century,DATE,,,en,2
+the past three days,the past three days,DATE,,,en,2
 3.9-liter,3.9-liter,CARDINAL,,,en,2
 2002,2002,DATE,,,en,2
-mornings,mornings,TIME,,,en,2
 V6,V6,PRODUCT,,,en,2
-the past three days,the past three days,DATE,,,en,2
+Sport Coupe,Sport Coupe,PRODUCT,,,en,2
 morning,morning,TIME,,,en,2
-2004,2004,DATE,,,en,1
-Pak,Pak,NORP,,,en,1
-+1946 chars,+1946 chars,WORK_OF_ART,,,en,1
 Autumn,Autumn,DATE,,,en,1
 Brain Fog,Brain Fog,WORK_OF_ART,,,en,1
-5,5,CARDINAL,,,en,1
-This 2002,This 2002,DATE,,,en,1
+November 5th,November 5th,DATE,,,en,1
+"November 8, 1994","November 8, 1994",DATE,,,en,1
+Fog Warning,Fog Warning,PRODUCT,,,en,1
 Friday,Friday,DATE,,,en,1
+5,5,CARDINAL,,,en,1
+2004,2004,DATE,,,en,1
++1946 chars,+1946 chars,WORK_OF_ART,,,en,1
 three days,three days,DATE,,,en,1
+This 2002,This 2002,DATE,,,en,1
 17,17,CARDINAL,,,en,1
+Pak,Pak,NORP,,,en,1
+11/07/2025 11:44:36 AM PST,11/07/2025 11:44:36 AM PST,TIME,,,en,1
