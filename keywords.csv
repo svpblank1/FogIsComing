@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fog light',en,Mitigation,#00ff00,#00ff00,3,0.4715153760602272
 'fog flights',en,Impacts,#ffff00,#ffff00,3,0.4626024298944443
+'fog slow down',en,Mitigation,#00ff00,#00ff00,3,0.4594481303727272
 'fog accident',en,Impacts,#ffff00,#ffff00,3,0.3781423934772727
-'fog slow down',en,Mitigation,#00ff00,#00ff00,2,0.3742740223636363
 'fog warning system',en,Adaptation,#0000ff,#0000ff,3,0.3698331635
 'fog dewpoint',en,Causes,#00ffff,#00ffff,1,0.36140002775
 'fog waether',en,Hazard,#ff0000,#ff0000,1,0.3612499999999999
