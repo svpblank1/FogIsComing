@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'+fog weather',en,Hazard,#ff0000,#ff0000,1,0.7612499999999999
+'+fog weather',en,Hazard,#ff0000,#ff0000,2,0.6611071140909089
 '+fog light',en,Mitigation,#00ff00,#00ff00,3,0.5159837096039138
 '+fog slow down',en,Mitigation,#00ff00,#00ff00,3,0.4594481303727272
 '+fog dewpoint',en,Causes,#00ffff,#00ffff,2,0.4573400385875
