@@ -6,6 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fog accident',en,Impacts,#ffff00,#ffff00,3,0.3781423934772727
 'fog waether',en,Hazard,#ff0000,#ff0000,1,0.3612499999999999
 'fog flights',en,Impacts,#ffff00,#ffff00,2,0.3592708310211497
-'foggy conditions',en,Hazard,#ff0000,#ff0000,2,0.3586763507556219
 'fog climate change',en,Causes,#00ffff,#00ffff,3,0.3192778155124999
+'foggy conditions',en,Hazard,#ff0000,#ff0000,2,0.3171758431422786
 'fog alert',en,Adaptation,#0000ff,#0000ff,2,0.2343910856381108
