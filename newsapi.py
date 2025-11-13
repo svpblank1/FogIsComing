@@ -214,6 +214,7 @@ def removeDuplicates(df1):
     df3 = df1[df1['similarity']<0.8]
     df3 = df3.drop(columns=['md5', 'group', 'similarity'])
     df3 = df3.sort_values(by=['published'], ascending=True)
+    df3 = df3.sort_values(by=['valid','published'], ascending=True)
     return df3
 
 def archiveUrl(data):
