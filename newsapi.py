@@ -310,7 +310,7 @@ def extractData(article, language, keyWord):
     return data  
 
 def checkKeywordInQuote(keyword, quote, case=True, anyKey=False):
-    keyword = keyword.replace("+","")
+    keyword = keyword.replace("+","").replace("-","")
     keywords = keyword.strip("'").split(" ")
     if(not case):
         keywords = keyword.strip("'").lower().split(" ")
@@ -376,13 +376,13 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
              found = True
              max(valid,0.2) 
       data['valid'] = valid
-      if(found):
+      if(valid>0.15):
         foundKeywords.append(keyWord) 
         data['keyword'] = random.choice(foundKeywords)
         foundArticles.append(data)
       else:
         data['keyword'] = keyWord
-        foundArticles.append(data)
+        #foundArticles.append(data)
 
     return foundArticles
 
