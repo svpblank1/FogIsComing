@@ -310,6 +310,7 @@ def extractData(article, language, keyWord):
     return data  
 
 def checkKeywordInQuote(keyword, quote, case=True, anyKey=False):
+    keyword = keyword.replace("+","")
     keywords = keyword.strip("'").split(" ")
     if(not case):
         keywords = keyword.strip("'").lower().split(" ")
