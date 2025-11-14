@@ -505,7 +505,7 @@ def inqRandomNews():
         # https://newsapi.org/docs/endpoints/everything
         url = ('https://newsapi.org/v2/everything?'+
             #'q="'+keyWord+'"&'
-            'q='+keyWord+'&'
+            'q='+keyWord.strip("'")+'&'
             'pageSize='+str(pageSize)+'&'
             'language='+language+'&'
             'page='+str(currPage)+'&'
