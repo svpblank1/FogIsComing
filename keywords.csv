@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-+fog light,en,Mitigation,#00ff00,#00ff00,3,0.4433942231633267
 +fog weather,en,Hazard,#ff0000,#ff0000,3,0.3896853626015789
++fog light,en,Mitigation,#00ff00,#00ff00,3,0.3813931596888277
 +fog accident,en,Impacts,#ffff00,#ffff00,3,0.3781423934772727
 +fog warning system,en,Adaptation,#0000ff,#0000ff,3,0.3433771744935282
 +fog dewpoint,en,Causes,#00ffff,#00ffff,1,0.3305782056294687
