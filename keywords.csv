@@ -7,5 +7,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 +fog warning system,en,Adaptation,#0000ff,#0000ff,3,0.2234643743108379
 +fog light,en,Mitigation,#00ff00,#00ff00,3,0.214796979487316
 +fog alert,en,Adaptation,#0000ff,#0000ff,2,0.188324297123535
-+fog climate change,en,Causes,#00ffff,#00ffff,3,0.1824550485657468
 +foggy conditions,en,Hazard,#ff0000,#ff0000,3,0.177213269089914
++fog climate change,en,Causes,#00ffff,#00ffff,3,0.15989169628088476
