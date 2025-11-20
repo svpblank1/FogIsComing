@@ -1,144 +1,145 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Jerome Powell,Jerome Powell,PERSON,-0.04294146825396826,0.44859126984126985,en,8,,,,,,
-Sanjay Malhotra,Sanjay Malhotra,PERSON,-0.018518518518518517,0.23379629629629628,en,6,,,,,,
-Met Éireann,Met Éireann,PERSON,0.061111111111111116,0.29333333333333333,en,5,,,,,,
-Dr Pal,Dr Pal,PERSON,0.15000000000000002,0.36142857142857143,en,5,,,,,,
-Guru Nanak Dev Ji,Guru Nanak Dev Ji,PERSON,0.0625,0.10833333333333334,en,4,,,,,,
-Elfyn Evans,Elfyn Evans,PERSON,0.21111111111111108,0.7222222222222222,en,4,,,,,,
-Edmund Fitzgerald,Edmund Fitzgerald,PERSON,0.19814814814814816,0.3712962962962963,en,3,,,,,,
-Sumbul Touqeer Khan,Sumbul Touqeer Khan,PERSON,0.0,0.6527777777777778,en,3,,,,,,
-Jaguar XKR,Jaguar XKR,PERSON,0.19999999999999998,0.19999999999999998,en,3,,,,,,
-Sebastien Ogier,Sebastien Ogier,PERSON,0.14814814814814814,0.6962962962962963,en,3,,,,,,
-Mini Cooper,Mini Cooper,PERSON,0.10404040404040404,0.32383838383838387,en,3,,,,,,
-McNally Jackson’s,McNally Jackson’s,PERSON,0.10416666666666666,0.1388888888888889,en,2,,,,,,
-Gianni Rodari,Gianni Rodari,PERSON,0.10416666666666666,0.1388888888888889,en,2,,,,,,
-Jerry Lorenzo,Jerry Lorenzo,PERSON,-0.25,0.55,en,2,,,,,,
-Getty Images,Getty Images,PERSON,0.0,0.0,en,2,,,,,,
-Christopher Waller,Christopher Waller,PERSON,0.03333333333333333,0.48333333333333334,en,2,,,,,,
-Stephen Thandi,Stephen Thandi,PERSON,0.01893939393939395,0.5284090909090908,en,2,,,,,,
-Antony Shugaar’s,Antony Shugaar’s,PERSON,0.10416666666666666,0.1388888888888889,en,2,,,,,,
-Lisa Cook,Lisa Cook,PERSON,0.1,1.0,en,2,,,,,,
-Kelley Vlahos,Kelley Vlahos,PERSON,-0.07777777777777779,0.3111111111111111,en,2,,,,,,
-Josh Olszewicz,Josh Olszewicz,PERSON,0.04,0.48,en,2,,,,,,
-Mark LT,Mark LT,PERSON,0.1875,0.375,en,2,,,,,,
-Pat Parrott,Pat Parrott,PERSON,-0.07500000000000001,0.5166666666666666,en,2,,,,,,
-Surjit Singh FloraSatguru Nanak pargateya,Surjit Singh FloraSatguru Nanak pargateya,PERSON,0.0,0.0,en,2,,,,,,
-chanan hoya,chanan hoya,PERSON,0.0,0.0,en,2,,,,,,
-Ryan Borgwardt,Ryan Borgwardt,PERSON,-0.05,0.025,en,2,,,,,,
-John Roberts BMW,John Roberts BMW,PERSON,0.25,0.3333333333333333,en,2,,,,,,
-Winslow Homer,Winslow Homer,PERSON,0.2388888888888889,0.3444444444444445,en,2,,,,,,
-Matthew Barton,Matthew Barton,PERSON,0.16166666666666665,0.22666666666666668,en,2,,,,,,
-Sharan Sivakumar,Sharan Sivakumar,PERSON,0.14666666666666667,0.6183333333333334,en,2,,,,,,
-Craig Lobo,Craig Lobo,PERSON,0.0,0.5,en,2,,,,,,
-Alan Wake,Alan Wake,PERSON,-0.1958333333333333,0.5708333333333333,en,2,,,,,,
-Gordon Lightfoot,Gordon Lightfoot,PERSON,0.05000000000000001,0.4583333333333333,en,2,,,,,,
-CHRISTOPHER RUGABER,CHRISTOPHER RUGABER,PERSON,0.0,0.0,en,2,,,,,,
-Fisch Cathulith,Fisch Cathulith,PERSON,0.0,0.0,en,2,,,,,,
-Sharpe BMW,Sharpe BMW,PERSON,0.1125,0.5125,en,2,,,,,,
-Photochromic Lenses,Photochromic Lenses,PERSON,0.05,0.15000000000000002,en,2,,,,,,
-Rover Tow,Rover Tow,PERSON,0.0,0.16666666666666666,en,2,,,,,,
-Highland Autoplex,Highland Autoplex,PERSON,0.09479166666666666,0.3729166666666667,en,2,,,,,,
-Miko microsuede,Miko microsuede,PERSON,-0.13005050505050506,0.3813131313131314,en,2,,,,,,
-Mark Shapiro,Mark Shapiro,PERSON,0.0,0.1,en,2,,,,,,
-Nissan Atlas,Nissan Atlas,PERSON,0.0,0.1,en,2,,,,,,
-Andy Muschietti,Andy Muschietti,PERSON,-0.44166666666666665,0.7333333333333333,en,2,,,,,,
-Marco Odermatt,Marco Odermatt,PERSON,0.43125,0.6305555555555555,en,2,,,,,,
-Josh Dury,Josh Dury,PERSON,0.425,0.75,en,2,,,,,,
-Daniel Herskedal,Daniel Herskedal,PERSON,0.11249999999999999,0.675,en,2,,,,,,
-Aries Horoscope,Aries Horoscope,PERSON,0.0,0.15833333333333333,en,2,,,,,,
-Jessie Inchauspé,Jessie Inchauspé,PERSON,0.5,0.5,en,2,,,,,,
-Justin Wilson,Justin Wilson,PERSON,0.0,0.0,en,2,,,,,,
-Lexus GX470,Lexus GX470,PERSON,0.0,0.0,en,2,,,,,,
-Jaguar XK8 Convertible at No Reserve,Jaguar XK8 Convertible at No Reserve,PERSON,0.0,0.0,en,1,,,,,,
-Geoff Charles,Geoff Charles,PERSON,0.0,0.0,en,1,,,,,,
-Collins Dead,Collins Dead,PERSON,-0.05555555555555556,0.48888888888888893,en,1,,,,,,
-Helge Andreas Norbakken,Helge Andreas Norbakken,PERSON,0.3,0.9,en,1,,,,,,
-Shirley Valentine,Shirley Valentine,PERSON,-0.05555555555555556,0.48888888888888893,en,1,,,,,,
-Xbox versio,Xbox versio,PERSON,0.13333333333333333,0.5,en,1,,,,,,
-Siobhán Keegan,Siobhán Keegan,PERSON,-0.2,0.0,en,1,,,,,,
-Lola Petticrew,Lola Petticrew,PERSON,0.49318181818181817,0.7272727272727273,en,1,,,,,,
-Helen Willetts,Helen Willetts,PERSON,0.09444444444444444,0.32222222222222224,en,1,,,,,,
-Bangor Teitl Cymraeg,Bangor Teitl Cymraeg,PERSON,0.0,0.0,en,1,,,,,,
-Itti Si Khushi,Itti Si Khushi,PERSON,0.0,0.75,en,1,,,,,,
-Bright Falls,Bright Falls,PERSON,-0.16666666666666663,0.6666666666666666,en,1,,,,,,
-Qingrong Yang,Qingrong Yang,PERSON,-0.1875,0.5,en,1,,,,,,
-Nocs Provisio,Nocs Provisio,PERSON,0.5,0.5,en,1,,,,,,
-Toyotas Sebastien Ogier,Toyotas Sebastien Ogier,PERSON,0.39999999999999997,0.7999999999999999,en,1,,,,,,
-Nocs Provisions,Nocs Provisions,PERSON,-0.05,0.4,en,1,,,,,,
-Rescues Shar,Rescues Shar,PERSON,-0.05555555555555556,0.48888888888888893,en,1,,,,,,
-Si Khushi,Si Khushi,PERSON,0.0,0.75,en,1,,,,,,
-Vincent Landais,Vincent Landais,PERSON,0.39999999999999997,0.7999999999999999,en,1,,,,,,
-Robert SchreiberBerlin,Robert SchreiberBerlin,PERSON,0.25,0.31666666666666665,en,1,,,,,,
-Helge Lien,Helge Lien,PERSON,0.3,0.9,en,1,,,,,,
-The Edmund Fitzgerald Teaches Men How To Feel,The Edmund Fitzgerald Teaches Men How To Feel,PERSON,0.0,0.0,en,1,,,,,,
-Abdujalil AbdurasulovIn,Abdujalil AbdurasulovIn,PERSON,-0.07500000000000001,0.49375,en,1,,,,,,
-Snow G,Snow G,PERSON,0.2898989898989899,0.5737373737373738,en,1,,,,,,
-Fisch Passage,Fisch Passage,PERSON,0.0,0.0,en,1,,,,,,
-Gregory Daco,Gregory Daco,PERSON,-0.08333333333333333,0.4166666666666667,en,1,,,,,,
-Fisch Hall Of Whispers Bestiary,Fisch Hall Of Whispers Bestiary,PERSON,0.0,0.0,en,1,,,,,,
-Fisch The Sanctum Bestiary – Everything You Can Catch With Preferences,Fisch The Sanctum Bestiary – Everything You Can Catch With Preferences,PERSON,0.0,0.0,en,1,,,,,,
-Psychological Bulletinreview,Psychological Bulletinreview,PERSON,0.0,0.175,en,1,,,,,,
-Aya Nagar,Aya Nagar,PERSON,0.20625000000000002,0.7770833333333333,en,1,,,,,,
-Edmund Fitzger,Edmund Fitzger,PERSON,0.0,0.0,en,1,,,,,,
-New Glenn,New Glenn,PERSON,0.3181818181818182,0.6772727272727272,en,1,,,,,,
-Andrew Hauser,Andrew Hauser,PERSON,0.0,0.0,en,1,,,,,,
-RFK Jr,RFK Jr,PERSON,0.3181818181818182,0.6772727272727272,en,1,,,,,,
-Tony Blain,Tony Blain,PERSON,0.0,0.0,en,1,,,,,,
-Andrew Dyer,Andrew Dyer,PERSON,0.7,0.6000000000000001,en,1,,,,,,
-Rebecca Siegel,Rebecca Siegel,PERSON,0.1,0.4,en,1,,,,,,
-Ian Tuttle,Ian Tuttle,PERSON,0.1,0.4,en,1,,,,,,
-Ryan Gryzbowski,Ryan Gryzbowski,PERSON,0.1,0.4,en,1,,,,,,
-Apple CarPlay,Apple CarPlay,PERSON,0.2375,0.4875,en,1,,,,,,
-tomorrowMet Éireann,tomorrowMet Éireann,PERSON,0.0,0.25,en,1,,,,,,
-Aries Horoscope Prediction,Aries Horoscope Prediction,PERSON,0.0,0.0,en,1,,,,,,
-Shruti Haasans,Shruti Haasans,PERSON,-0.05555555555555556,0.48888888888888893,en,1,,,,,,
-Gray Nasca,Gray Nasca,PERSON,0.1875,0.425,en,1,,,,,,
-Kate Bush’s,Kate Bush’s,PERSON,0.0,0.0,en,1,,,,,,
-Das Wichtigste,Das Wichtigste,PERSON,0.0,0.0,en,1,,,,,,
-Donald Trump,Donald Trump,PERSON,0.1,1.0,en,1,,,,,,
-Grace McGrade,Grace McGrade,PERSON,0.1,0.25,en,1,,,,,,
-Pennywise the Clown,Pennywise the Clown,PERSON,-0.16666666666666666,0.6666666666666666,en,1,,,,,,
-Edmund Fitzgerald 50th,Edmund Fitzgerald 50th,PERSON,0.0,0.0,en,1,,,,,,
-Michael Shainblum,Michael Shainblum,PERSON,0.1,0.6535714285714286,en,1,,,,,,
-Houstons wea,Houstons wea,PERSON,0.0,0.0,en,1,,,,,,
-Tade Thompson,Tade Thompson,PERSON,0.0,0.0,en,1,,,,,,
-Ajit Sharma Sa,Ajit Sharma Sa,PERSON,0.26666666666666666,0.48333333333333334,en,1,,,,,,
-Frederick August Moss,Frederick August Moss,PERSON,0.125,0.16666666666666666,en,1,,,,,,
-Jan Nu,Jan Nu,PERSON,0.1,0.3,en,1,,,,,,
-Garth Cripps,Garth Cripps,PERSON,0.0,0.0,en,1,,,,,,
-Cat Burns through Celebrity Traitors,Cat Burns through Celebrity Traitors,PERSON,0.25,0.25,en,1,,,,,,
-Mark SavageMusic,Mark SavageMusic,PERSON,0.25,0.25,en,1,,,,,,
-Mario Bava’s,Mario Bava’s,PERSON,-0.16666666666666666,0.43333333333333335,en,1,,,,,,
-Cardo ha,Cardo ha,PERSON,0.0,0.0,en,1,,,,,,
-Chair Powell,Chair Powell,PERSON,0.0,0.0,en,1,,,,,,
-Marco Schwarz,Marco Schwarz,PERSON,0.5125,0.6833333333333333,en,1,,,,,,
-Andrea Thuesen,Andrea Thuesen,PERSON,0.21666666666666665,0.4833333333333334,en,1,,,,,,
-Thomas Jefferson,Thomas Jefferson,PERSON,1.0,1.0,en,1,,,,,,
-Anna Moneymaker,Anna Moneymaker,PERSON,0.0,0.3,en,1,,,,,,
-Volodymyr Zelensky,Volodymyr Zelensky,PERSON,0.0,0.0,en,1,,,,,,
-Mohammed Hasan,Mohammed Hasan,PERSON,0.4,0.8,en,1,,,,,,
-durch Handy-Standortdaten,durch Handy-Standortdaten,PERSON,0.0,0.0,en,1,,,,,,
-Wayfare Tavern,Wayfare Tavern,PERSON,-6.938893903907228e-18,0.41875,en,1,,,,,,
-John Schneider,John Schneider,PERSON,0.0,0.10000000000000002,en,1,,,,,,
-Abdujalil Abdurasulov,Abdujalil Abdurasulov,PERSON,0.0,0.0,en,1,,,,,,
-Ruth Wilsons,Ruth Wilsons,PERSON,0.0,0.0,en,1,,,,,,
-sakchai vongsasiripat,sakchai vongsasiripat,PERSON,-0.09999999999999999,0.5,en,1,,,,,,
-Kerry Wan,Kerry Wan,PERSON,0.0,0.0,en,1,,,,,,
-Caleb AlvaradoOn,Caleb AlvaradoOn,PERSON,-0.1,0.05,en,1,,,,,,
-Game Pass,Game Pass,PERSON,0.033333333333333326,0.525,en,1,,,,,,
-Gabriel Harris,Gabriel Harris,PERSON,0.25,0.3666666666666667,en,1,,,,,,
-LINDSEY HARDING,LINDSEY HARDING,PERSON,0.25,0.3666666666666667,en,1,,,,,,
-JJ Redick,JJ Redick,PERSON,0.0,0.47500000000000003,en,1,,,,,,
-Lindsey Harding,Lindsey Harding,PERSON,0.5,0.6,en,1,,,,,,
-Katrina Schwartz,Katrina Schwartz,PERSON,0.0,0.0,en,1,,,,,,
-Kristine Dennis,Kristine Dennis,PERSON,0.0,0.0,en,1,,,,,,
-Brain Rot,Brain Rot,PERSON,-0.05,0.4,en,1,,,,,,
-Laguna Seca Hennessey HPE700,Laguna Seca Hennessey HPE700,PERSON,0.0,0.0,en,1,,,,,,
-Long Covid Edition,Long Covid Edition,PERSON,-0.05,0.4,en,1,,,,,,
-dhund jag,dhund jag,PERSON,0.0,0.0,en,1,,,,,,
-Frank McNally,Frank McNally,PERSON,0.25,0.3333333333333333,en,1,,,,,,
-Oyster Dako,Oyster Dako,PERSON,-0.08787878787878789,0.38484848484848483,en,1,,,,,,
-Daniel Whiteson,Daniel Whiteson,PERSON,0.4,0.5125,en,1,,,,,,
-Met Éir,Met Éir,PERSON,-0.1,0.4,en,1,,,,,,
-Lincoln Mark LT,Lincoln Mark LT,PERSON,0.15625,0.4625,en,1,,,,,,
-Lotus Emira,Lotus Emira,PERSON,-0.25,0.7,en,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+Jerome Powell,Jerome Powell,PERSON,-0.2020774976657329,2.1110177404295043,en,1.7000000000000006
+Sanjay Malhotra,Sanjay Malhotra,PERSON,-0.07407407407407404,0.9351851851851849,en,1.5000000000000004
+Dr Pal,Dr Pal,PERSON,0.5357142857142857,1.2908163265306118,en,1.4000000000000004
+Met Éireann,Met Éireann,PERSON,0.21825396825396823,1.0476190476190474,en,1.4000000000000004
+Guru Nanak Dev Ji,Guru Nanak Dev Ji,PERSON,0.19230769230769226,0.33333333333333326,en,1.3000000000000003
+Elfyn Evans,Elfyn Evans,PERSON,0.6495726495726494,2.222222222222222,en,1.3000000000000003
+Sumbul Touqeer Khan,Sumbul Touqeer Khan,PERSON,0.0,1.6319444444444442,en,1.2000000000000002
+Sebastien Ogier,Sebastien Ogier,PERSON,0.3703703703703703,1.7407407407407407,en,1.2000000000000002
+Jaguar XKR,Jaguar XKR,PERSON,0.4999999999999999,0.4999999999999999,en,1.2000000000000002
+Edmund Fitzgerald,Edmund Fitzgerald,PERSON,0.4953703703703703,0.9282407407407406,en,1.2000000000000002
+Mini Cooper,Mini Cooper,PERSON,0.26010101010101006,0.8095959595959596,en,1.2000000000000002
+Christopher Waller,Christopher Waller,PERSON,0.0606060606060606,0.8787878787878787,en,1.1
+Sharpe BMW,Sharpe BMW,PERSON,0.20454545454545453,0.9318181818181817,en,1.1
+Getty Images,Getty Images,PERSON,0.0,0.0,en,1.1
+Kelley Vlahos,Kelley Vlahos,PERSON,-0.14141414141414144,0.5656565656565656,en,1.1
+McNally Jackson’s,McNally Jackson’s,PERSON,0.18939393939393936,0.25252525252525254,en,1.1
+Gianni Rodari,Gianni Rodari,PERSON,0.18939393939393936,0.25252525252525254,en,1.1
+Antony Shugaar’s,Antony Shugaar’s,PERSON,0.18939393939393936,0.25252525252525254,en,1.1
+Stephen Thandi,Stephen Thandi,PERSON,0.034435261707988996,0.9607438016528923,en,1.1
+Pat Parrott,Pat Parrott,PERSON,-0.13636363636363638,0.9393939393939392,en,1.1
+Lisa Cook,Lisa Cook,PERSON,0.18181818181818182,1.8181818181818181,en,1.1
+Alan Wake,Alan Wake,PERSON,-0.35606060606060597,1.0378787878787878,en,1.1
+Josh Olszewicz,Josh Olszewicz,PERSON,0.07272727272727272,0.8727272727272726,en,1.1
+Lexus GX470,Lexus GX470,PERSON,0.0,0.0,en,1.1
+Photochromic Lenses,Photochromic Lenses,PERSON,0.09090909090909091,0.27272727272727276,en,1.1
+Surjit Singh FloraSatguru Nanak pargateya,Surjit Singh FloraSatguru Nanak pargateya,PERSON,0.0,0.0,en,1.1
+chanan hoya,chanan hoya,PERSON,0.0,0.0,en,1.1
+Craig Lobo,Craig Lobo,PERSON,0.0,0.9090909090909091,en,1.1
+Sharan Sivakumar,Sharan Sivakumar,PERSON,0.26666666666666666,1.1242424242424243,en,1.1
+Ryan Borgwardt,Ryan Borgwardt,PERSON,-0.09090909090909091,0.045454545454545456,en,1.1
+Matthew Barton,Matthew Barton,PERSON,0.2939393939393939,0.4121212121212121,en,1.1
+John Roberts BMW,John Roberts BMW,PERSON,0.45454545454545453,0.606060606060606,en,1.1
+Mark LT,Mark LT,PERSON,0.3409090909090909,0.6818181818181818,en,1.1
+Jerry Lorenzo,Jerry Lorenzo,PERSON,-0.45454545454545453,1.0,en,1.1
+Josh Dury,Josh Dury,PERSON,0.7727272727272726,1.3636363636363635,en,1.1
+CHRISTOPHER RUGABER,CHRISTOPHER RUGABER,PERSON,0.0,0.0,en,1.1
+Mark Shapiro,Mark Shapiro,PERSON,0.0,0.18181818181818182,en,1.1
+Justin Wilson,Justin Wilson,PERSON,0.0,0.0,en,1.1
+Highland Autoplex,Highland Autoplex,PERSON,0.17234848484848483,0.678030303030303,en,1.1
+Daniel Herskedal,Daniel Herskedal,PERSON,0.2045454545454545,1.2272727272727273,en,1.1
+Jessie Inchauspé,Jessie Inchauspé,PERSON,0.9090909090909091,0.9090909090909091,en,1.1
+Gordon Lightfoot,Gordon Lightfoot,PERSON,0.09090909090909093,0.8333333333333333,en,1.1
+Marco Odermatt,Marco Odermatt,PERSON,0.7840909090909091,1.1464646464646464,en,1.1
+Miko microsuede,Miko microsuede,PERSON,-0.23645546372819098,0.6932966023875116,en,1.1
+Andy Muschietti,Andy Muschietti,PERSON,-0.803030303030303,1.333333333333333,en,1.1
+Aries Horoscope,Aries Horoscope,PERSON,0.0,0.28787878787878785,en,1.1
+Rover Tow,Rover Tow,PERSON,0.0,0.303030303030303,en,1.1
+Fisch Cathulith,Fisch Cathulith,PERSON,0.0,0.0,en,1.1
+Nissan Atlas,Nissan Atlas,PERSON,0.0,0.18181818181818182,en,1.1
+Rebecca Siegel,Rebecca Siegel,PERSON,0.1,0.4,en,1.0
+Fisch Passage,Fisch Passage,PERSON,0.0,0.0,en,1.0
+Si Khushi,Si Khushi,PERSON,0.0,0.75,en,1.0
+Nocs Provisions,Nocs Provisions,PERSON,-0.05,0.4,en,1.0
+Fisch Hall Of Whispers Bestiary,Fisch Hall Of Whispers Bestiary,PERSON,0.0,0.0,en,1.0
+Fisch The Sanctum Bestiary – Everything You Can Catch With Preferences,Fisch The Sanctum Bestiary – Everything You Can Catch With Preferences,PERSON,0.0,0.0,en,1.0
+Gregory Daco,Gregory Daco,PERSON,-0.08333333333333333,0.4166666666666667,en,1.0
+Itti Si Khushi,Itti Si Khushi,PERSON,0.0,0.75,en,1.0
+Snow G,Snow G,PERSON,0.2898989898989899,0.5737373737373738,en,1.0
+Abdujalil AbdurasulovIn,Abdujalil AbdurasulovIn,PERSON,-0.07500000000000001,0.49375,en,1.0
+Rescues Shar,Rescues Shar,PERSON,-0.05555555555555556,0.48888888888888893,en,1.0
+Shirley Valentine,Shirley Valentine,PERSON,-0.05555555555555556,0.48888888888888893,en,1.0
+Collins Dead,Collins Dead,PERSON,-0.05555555555555556,0.48888888888888893,en,1.0
+Shruti Haasans,Shruti Haasans,PERSON,-0.05555555555555556,0.48888888888888893,en,1.0
+Kate Bush’s,Kate Bush’s,PERSON,0.0,0.0,en,1.0
+Nocs Provisio,Nocs Provisio,PERSON,0.5,0.5,en,1.0
+Helen Willetts,Helen Willetts,PERSON,0.09444444444444444,0.32222222222222224,en,1.0
+Bright Falls,Bright Falls,PERSON,-0.16666666666666663,0.6666666666666666,en,1.0
+Psychological Bulletinreview,Psychological Bulletinreview,PERSON,0.0,0.175,en,1.0
+Andrew Dyer,Andrew Dyer,PERSON,0.7,0.6000000000000001,en,1.0
+Ryan Gryzbowski,Ryan Gryzbowski,PERSON,0.1,0.4,en,1.0
+Apple CarPlay,Apple CarPlay,PERSON,0.2375,0.4875,en,1.0
+tomorrowMet Éireann,tomorrowMet Éireann,PERSON,0.0,0.25,en,1.0
+Tony Blain,Tony Blain,PERSON,0.0,0.0,en,1.0
+New Glenn,New Glenn,PERSON,0.3181818181818182,0.6772727272727272,en,1.0
+RFK Jr,RFK Jr,PERSON,0.3181818181818182,0.6772727272727272,en,1.0
+Lotus Emira,Lotus Emira,PERSON,-0.25,0.7,en,1.0
+Robert SchreiberBerlin,Robert SchreiberBerlin,PERSON,0.25,0.31666666666666665,en,1.0
+Andrew Hauser,Andrew Hauser,PERSON,0.0,0.0,en,1.0
+The Edmund Fitzgerald Teaches Men How To Feel,The Edmund Fitzgerald Teaches Men How To Feel,PERSON,0.0,0.0,en,1.0
+Toyotas Sebastien Ogier,Toyotas Sebastien Ogier,PERSON,0.39999999999999997,0.7999999999999999,en,1.0
+Vincent Landais,Vincent Landais,PERSON,0.39999999999999997,0.7999999999999999,en,1.0
+Xbox versio,Xbox versio,PERSON,0.13333333333333333,0.5,en,1.0
+Siobhán Keegan,Siobhán Keegan,PERSON,-0.2,0.0,en,1.0
+Edmund Fitzger,Edmund Fitzger,PERSON,0.0,0.0,en,1.0
+Lola Petticrew,Lola Petticrew,PERSON,0.49318181818181817,0.7272727272727273,en,1.0
+Geoff Charles,Geoff Charles,PERSON,0.0,0.0,en,1.0
+Aya Nagar,Aya Nagar,PERSON,0.20625000000000002,0.7770833333333333,en,1.0
+Bangor Teitl Cymraeg,Bangor Teitl Cymraeg,PERSON,0.0,0.0,en,1.0
+Ian Tuttle,Ian Tuttle,PERSON,0.1,0.4,en,1.0
+Winslow Homer,Winslow Homer,PERSON,0.4777777777777778,0.688888888888889,en,1.0
+Daniel Whiteson,Daniel Whiteson,PERSON,0.4,0.5125,en,1.0
+Ruth Wilsons,Ruth Wilsons,PERSON,0.0,0.0,en,1.0
+Cardo ha,Cardo ha,PERSON,0.0,0.0,en,1.0
+Volodymyr Zelensky,Volodymyr Zelensky,PERSON,0.0,0.0,en,1.0
+Abdujalil Abdurasulov,Abdujalil Abdurasulov,PERSON,0.0,0.0,en,1.0
+Gray Nasca,Gray Nasca,PERSON,0.1875,0.425,en,1.0
+Anna Moneymaker,Anna Moneymaker,PERSON,0.0,0.3,en,1.0
+Thomas Jefferson,Thomas Jefferson,PERSON,1.0,1.0,en,1.0
+Andrea Thuesen,Andrea Thuesen,PERSON,0.21666666666666665,0.4833333333333334,en,1.0
+Marco Schwarz,Marco Schwarz,PERSON,0.5125,0.6833333333333333,en,1.0
+Garth Cripps,Garth Cripps,PERSON,0.0,0.0,en,1.0
+Houstons wea,Houstons wea,PERSON,0.0,0.0,en,1.0
+Pennywise the Clown,Pennywise the Clown,PERSON,-0.16666666666666666,0.6666666666666666,en,1.0
+John Schneider,John Schneider,PERSON,0.0,0.10000000000000002,en,1.0
+Oyster Dako,Oyster Dako,PERSON,-0.08787878787878789,0.38484848484848483,en,1.0
+Frank McNally,Frank McNally,PERSON,0.25,0.3333333333333333,en,1.0
+Long Covid Edition,Long Covid Edition,PERSON,-0.05,0.4,en,1.0
+Brain Rot,Brain Rot,PERSON,-0.05,0.4,en,1.0
+Game Pass,Game Pass,PERSON,0.033333333333333326,0.525,en,1.0
+Kerry Wan,Kerry Wan,PERSON,0.0,0.0,en,1.0
+Wayfare Tavern,Wayfare Tavern,PERSON,-6.938893903907228e-18,0.41875,en,1.0
+Aries Horoscope Prediction,Aries Horoscope Prediction,PERSON,0.0,0.0,en,1.0
+Jaguar XK8 Convertible at No Reserve,Jaguar XK8 Convertible at No Reserve,PERSON,0.0,0.0,en,1.0
+Qingrong Yang,Qingrong Yang,PERSON,-0.1875,0.5,en,1.0
+Helge Andreas Norbakken,Helge Andreas Norbakken,PERSON,0.3,0.9,en,1.0
+Helge Lien,Helge Lien,PERSON,0.3,0.9,en,1.0
+Chair Powell,Chair Powell,PERSON,0.0,0.0,en,1.0
+Mario Bava’s,Mario Bava’s,PERSON,-0.16666666666666666,0.43333333333333335,en,1.0
+sakchai vongsasiripat,sakchai vongsasiripat,PERSON,-0.09999999999999999,0.5,en,1.0
+Mark SavageMusic,Mark SavageMusic,PERSON,0.25,0.25,en,1.0
+Caleb AlvaradoOn,Caleb AlvaradoOn,PERSON,-0.1,0.05,en,1.0
+Gabriel Harris,Gabriel Harris,PERSON,0.25,0.3666666666666667,en,1.0
+LINDSEY HARDING,LINDSEY HARDING,PERSON,0.25,0.3666666666666667,en,1.0
+JJ Redick,JJ Redick,PERSON,0.0,0.47500000000000003,en,1.0
+Lindsey Harding,Lindsey Harding,PERSON,0.5,0.6,en,1.0
+Katrina Schwartz,Katrina Schwartz,PERSON,0.0,0.0,en,1.0
+Kristine Dennis,Kristine Dennis,PERSON,0.0,0.0,en,1.0
+Laguna Seca Hennessey HPE700,Laguna Seca Hennessey HPE700,PERSON,0.0,0.0,en,1.0
+dhund jag,dhund jag,PERSON,0.0,0.0,en,1.0
+Met Éir,Met Éir,PERSON,-0.1,0.4,en,1.0
+Lincoln Mark LT,Lincoln Mark LT,PERSON,0.15625,0.4625,en,1.0
+durch Handy-Standortdaten,durch Handy-Standortdaten,PERSON,0.0,0.0,en,1.0
+Das Wichtigste,Das Wichtigste,PERSON,0.0,0.0,en,1.0
+Mohammed Hasan,Mohammed Hasan,PERSON,0.4,0.8,en,1.0
+Donald Trump,Donald Trump,PERSON,0.1,1.0,en,1.0
+Grace McGrade,Grace McGrade,PERSON,0.1,0.25,en,1.0
+Edmund Fitzgerald 50th,Edmund Fitzgerald 50th,PERSON,0.0,0.0,en,1.0
+Michael Shainblum,Michael Shainblum,PERSON,0.1,0.6535714285714286,en,1.0
+Tade Thompson,Tade Thompson,PERSON,0.0,0.0,en,1.0
+Ajit Sharma Sa,Ajit Sharma Sa,PERSON,0.26666666666666666,0.48333333333333334,en,1.0
+Frederick August Moss,Frederick August Moss,PERSON,0.125,0.16666666666666666,en,1.0
+Jan Nu,Jan Nu,PERSON,0.1,0.3,en,1.0
+Cat Burns through Celebrity Traitors,Cat Burns through Celebrity Traitors,PERSON,0.25,0.25,en,1.0
+Scott Peterson,Scott Peterson,PERSON,-0.05000000000000001,0.3055555555555555,en,1.0
