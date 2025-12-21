@@ -8,4 +8,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 +fog slow down,en,Mitigation,#00ff00,#00ff00,3,0.0484154709941628
 +foggy conditions,en,Hazard,#ff0000,#ff0000,3,0.041365671764579
 +fog climate change,en,Causes,#00ffff,#00ffff,3,0.0380791399119715
-+fog dewpoint,en,Causes,#00ffff,#00ffff,1,0.024792141488602138
++fog dewpoint,en,Causes,#00ffff,#00ffff,1,0.021073320265311786
