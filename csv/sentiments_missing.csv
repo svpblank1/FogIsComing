@@ -1,478 +1,542 @@
 ,phrase,label,sentiment,subjectivity,language,count
-today,today,DATE,,,en,14.200000000000006
-Monday,Monday,DATE,,,en,13.300000000000002
-five,five,CARDINAL,,,en,11.500000000000002
+today,today,DATE,,,en,25.400000000000016
+Monday,Monday,DATE,,,en,19.800000000000008
+five,five,CARDINAL,,,en,13.100000000000003
+winter,winter,DATE,,,en,12.9
+morning,morning,TIME,,,en,10.900000000000002
+Friday,Friday,DATE,,,en,10.700000000000001
 six,six,CARDINAL,,,en,10.599999999999998
-winter,winter,DATE,,,en,9.1
-one,one,CARDINAL,,,en,8.199999999999996
+IndiGo,IndiGo,CARDINAL,,,en,10.5
+Thursday,Thursday,DATE,,,en,10.4
+Tuesday,Tuesday,DATE,,,en,10.100000000000001
+Delhi Airport,Delhi Airport,FAC,,,en,9.500000000000002
+one,one,CARDINAL,,,en,8.499999999999996
+first,first,ORDINAL,,,en,7.6000000000000005
+Today,Today,DATE,,,en,7.4
+Sunday,Sunday,DATE,,,en,7.3999999999999995
 four,four,CARDINAL,,,en,7.399999999999996
-Friday,Friday,DATE,,,en,7.199999999999999
-Delhi Airport,Delhi Airport,FAC,,,en,7.1
-first,first,ORDINAL,,,en,6.800000000000001
-Thursday,Thursday,DATE,,,en,6.5
+Saturday,Saturday,DATE,,,en,6.8
+Indian,Indian,NORP,,,en,6.6
+Indira Gandhi International Airport,Indira Gandhi International Airport,FAC,,,en,6.6
 2025,2025,DATE,,,en,6.399999999999997
 Ukrainian,Ukrainian,NORP,-1.1145833333333335,4.718749999999999,en,6.2
-Today,Today,DATE,,,en,5.800000000000001
-Tuesday,Tuesday,DATE,,,en,5.300000000000001
-morning,morning,TIME,,,en,5.3
+Wednesday,Wednesday,DATE,,,en,5.700000000000001
 2,2,CARDINAL,,,en,5.1
 Russian,Russian,NORP,,,en,5.000000000000002
-IndiGo,IndiGo,CARDINAL,,,en,5.0
 SC430,SC430,PRODUCT,,,en,5.0
-Wednesday,Wednesday,DATE,,,en,4.900000000000001
+Delhi airport,Delhi airport,FAC,,,en,5.0
+two,two,CARDINAL,,,en,4.600000000000001
 2016,2016,CARDINAL,,,en,4.6000000000000005
 2007,2007,DATE,,,en,4.4
-Indira Gandhi International Airport,Indira Gandhi International Airport,FAC,,,en,4.2
 2001,2001,DATE,,,en,3.9000000000000012
-200,200,CARDINAL,,,en,3.9000000000000004
 18,18,CARDINAL,,,en,3.9000000000000004
+200,200,CARDINAL,,,en,3.9000000000000004
 2024,2024,DATE,,,en,3.700000000000001
-tomorrow,tomorrow,DATE,,,en,3.5999999999999996
+2013,2013,CARDINAL,,,en,3.7
+eight,eight,CARDINAL,,,en,3.6000000000000014
 Hundreds,Hundreds,CARDINAL,,,en,3.5999999999999996
-two,two,CARDINAL,,,en,3.5000000000000013
-40,40,CARDINAL,,,en,3.4000000000000004
+tomorrow,tomorrow,DATE,,,en,3.5999999999999996
+three,three,CARDINAL,,,en,3.500000000000001
 hundreds,hundreds,CARDINAL,,,en,3.4000000000000004
+early morning,early morning,TIME,,,en,3.4000000000000004
+40,40,CARDINAL,,,en,3.4000000000000004
 V8,V8,PRODUCT,,,en,3.4000000000000004
-Sunday,Sunday,DATE,,,en,3.4000000000000004
+Christmas,Christmas,DATE,,,en,3.4000000000000004
+110,110,CARDINAL,,,en,3.4000000000000004
 Halloween,Halloween,DATE,,,en,3.300000000000002
-2013,2013,CARDINAL,,,en,3.0
+4,4,CARDINAL,,,en,3.3000000000000007
+the year,the year,DATE,,,en,3.1000000000000005
+5,5,CARDINAL,,,en,3.1000000000000005
+Two,Two,CARDINAL,,,en,3.000000000000001
 weekly,weekly,DATE,,,en,3.0
 Corvette,Corvette,PRODUCT,,,en,2.9000000000000017
 second,second,ORDINAL,,,en,2.9000000000000012
 17,17,CARDINAL,,,en,2.9000000000000012
-Saturday,Saturday,DATE,,,en,2.9000000000000004
 2005,2005,DATE,,,en,2.9000000000000004
 night,night,TIME,,,en,2.9
-eight,eight,CARDINAL,,,en,2.8000000000000016
-three,three,CARDINAL,,,en,2.700000000000001
+2026,2026,DATE,,,en,2.800000000000001
+6,6,CARDINAL,,,en,2.8000000000000007
+2023,2023,DATE,,,en,2.700000000000001
+daily,daily,DATE,,,en,2.7
 Black Onyx,Black Onyx,EVENT,,,en,2.7
 2006,2006,DATE,,,en,2.6000000000000014
 2015,2015,DATE,,,en,2.6000000000000014
-Indian,Indian,NORP,,,en,2.6
+morning hours,morning hours,TIME,,,en,2.6
 1994,1994,DATE,,,en,2.6
-4Runner,4Runner,PRODUCT,,,en,2.6
 Winter,Winter,DATE,,,en,2.6
+December 19,December 19,DATE,,,en,2.6
+thousands,thousands,CARDINAL,,,en,2.6
+North Indian,North Indian,NORP,,,en,2.6
+Bosnian,Bosnian,NORP,,,en,2.6
+At least five,At least five,CARDINAL,,,en,2.6
+4Runner,4Runner,PRODUCT,,,en,2.6
 SR5,SR5,PRODUCT,,,en,2.6
-2026,2026,DATE,,,en,2.5000000000000013
-4,4,CARDINAL,,,en,2.500000000000001
+60,60,CARDINAL,,,en,2.6
 77,77,CARDINAL,,,en,2.5
-daily,daily,DATE,,,en,2.4000000000000004
+126,126,CARDINAL,,,en,2.5
+December 20,December 20,DATE,,,en,2.4000000000000004
+67,67,CARDINAL,,,en,2.4
 One,One,CARDINAL,,,en,2.3000000000000007
-2023,2023,DATE,,,en,2.3000000000000007
+10,10,CARDINAL,,,en,2.3000000000000007
 this week,this week,DATE,,,en,2.3000000000000003
 2003,2003,DATE,,,en,2.200000000000001
 20,20,CARDINAL,,,en,2.2
-2011,2011,DATE,,,en,2.100000000000001
 2017,2017,CARDINAL,,,en,2.100000000000001
+2011,2011,DATE,,,en,2.100000000000001
 1998,1998,DATE,,,en,2.100000000000001
+1,1,CARDINAL,,,en,2.1000000000000005
 27,27,CARDINAL,,,en,2.1000000000000005
+mornings,mornings,TIME,,,en,2.1000000000000005
 the past three days,the past three days,DATE,,,en,2.1
+under 40,under 40,DATE,,,en,2.1
 2012,2012,DATE,,,en,2.000000000000001
-6,6,CARDINAL,,,en,2.0000000000000004
-300,300,MONEY,,,en,2.0
 22,22,CARDINAL,,,en,2.0
-October,October,DATE,,,en,1.9000000000000008
+Americans,Americans,NORP,,,en,2.0
+8,8,CARDINAL,,,en,2.0
+300,300,MONEY,,,en,2.0
 1999,1999,DATE,,,en,1.9000000000000008
+October,October,DATE,,,en,1.9000000000000008
 the weekend,the weekend,DATE,,,en,1.9000000000000001
 Russians,Russians,NORP,,,en,1.9000000000000001
-1979,1979,DATE,,,en,1.8000000000000007
 Porsche Cayenne GTS,Porsche Cayenne GTS,PRODUCT,,,en,1.8000000000000007
-2019,2019,DATE,,,en,1.8000000000000007
 2014,2014,CARDINAL,,,en,1.8000000000000007
 this year,this year,DATE,,,en,1.8000000000000007
+2019,2019,DATE,,,en,1.8000000000000007
+1979,1979,DATE,,,en,1.8000000000000007
 November,November,DATE,,,en,1.8000000000000007
-thousands,thousands,CARDINAL,,,en,1.8
+hours,hours,TIME,,,en,1.8000000000000003
+European,European,NORP,,,en,1.8000000000000003
+Five,Five,CARDINAL,,,en,1.8000000000000003
+13,13,CARDINAL,,,en,1.8
++1917 chars,+1917 chars,WORK_OF_ART,,,en,1.8
+"100,000","100,000",MONEY,,,en,1.8
 Mumbai Airport,Mumbai Airport,FAC,,,en,1.8
+129,129,CARDINAL,,,en,1.8
+Four,Four,CARDINAL,,,en,1.8
+more than 500,more than 500,CARDINAL,,,en,1.8
+This 2024,This 2024,DATE,,,en,1.8
 over 500,over 500,CARDINAL,,,en,1.8
+Indira Gandhi Airport,Indira Gandhi Airport,FAC,,,en,1.8
 177,177,CARDINAL,,,en,1.8
-the past few days,the past few days,DATE,,,en,1.8
-Chandigarh Airport,Chandigarh Airport,FAC,,,en,1.8
-December 18,December 18,DATE,,,en,1.8
-a third day,a third day,DATE,,,en,1.8
+the last year or so,the last year or so,DATE,,,en,1.8
+Punjab,Punjab,NORP,-0.1764705882352941,0.2941176470588235,en,1.8
+the Delhi Airport,the Delhi Airport,FAC,,,en,1.8
+year,year,DATE,,,en,1.8
+As many as 68,As many as 68,CARDINAL,,,en,1.8
+cold day,cold day,DATE,,,en,1.8
+At least 10,At least 10,CARDINAL,,,en,1.8
+Monday morning,Monday morning,TIME,,,en,1.8
 the Chennai Airport,the Chennai Airport,FAC,,,en,1.8
 December 17,December 17,DATE,,,en,1.8
-morning hours,morning hours,TIME,,,en,1.8
-6.4-Liter,6.4-Liter,CARDINAL,,,en,1.8
-the Delhi Airport,the Delhi Airport,FAC,,,en,1.8
-+1917 chars,+1917 chars,WORK_OF_ART,,,en,1.8
-15 December,15 December,DATE,,,en,1.8
-Jaguar,Jaguar,PRODUCT,,,en,1.8
-This 2024,This 2024,DATE,,,en,1.8
-Thanksgiving,Thanksgiving,DATE,,,en,1.8
+December 18,December 18,DATE,,,en,1.8
+Over 100,Over 100,CARDINAL,,,en,1.8
 the coming days,the coming days,DATE,,,en,1.8
-under 40,under 40,DATE,,,en,1.8
-eleven,eleven,CARDINAL,,,en,1.8
-13,13,CARDINAL,,,en,1.8
-the last year or so,the last year or so,DATE,,,en,1.8
+6.4-Liter,6.4-Liter,CARDINAL,,,en,1.8
+Chandigarh Airport,Chandigarh Airport,FAC,,,en,1.8
+a third day,a third day,DATE,,,en,1.8
+more than 270,more than 270,CARDINAL,,,en,1.8
+days,days,DATE,,,en,1.8
+the past few days,the past few days,DATE,,,en,1.8
+Jaguar,Jaguar,PRODUCT,,,en,1.8
+Thanksgiving,Thanksgiving,DATE,,,en,1.8
+early-morning,early-morning,TIME,,,en,1.8
 309,309,CARDINAL,,,en,1.8
 11,11,CARDINAL,,,en,1.8
-Four,Four,CARDINAL,,,en,1.8
-129,129,CARDINAL,,,en,1.8
-days,days,DATE,,,en,1.8
-2008,2008,DATE,,,en,1.7000000000000006
-next week,next week,DATE,,,en,1.7000000000000006
-seven,seven,CARDINAL,,,en,1.7000000000000006
-Mustang,Mustang,PRODUCT,,,en,1.7000000000000006
-1993,1993,DATE,,,en,1.7000000000000006
+eleven,eleven,CARDINAL,,,en,1.8
+15 December,15 December,DATE,,,en,1.8
 1995,1995,DATE,,,en,1.7000000000000006
-126,126,CARDINAL,,,en,1.7
+Mustang,Mustang,PRODUCT,,,en,1.7000000000000006
+seven,seven,CARDINAL,,,en,1.7000000000000006
+1993,1993,DATE,,,en,1.7000000000000006
+next week,next week,DATE,,,en,1.7000000000000006
+2008,2008,DATE,,,en,1.7000000000000006
 3-5 degrees Celsius,3-5 degrees Celsius,QUANTITY,,,en,1.7
-228,228,CARDINAL,,,en,1.7
+Fog Speed Limit,Fog Speed Limit,PRODUCT,,,en,1.7
 49,49,CARDINAL,,,en,1.7
-2004,2004,DATE,,,en,1.6000000000000005
-About 1.25 million,About 1.25 million,CARDINAL,,,en,1.6000000000000005
-Two,Two,CARDINAL,,,en,1.6000000000000005
-2000,2000,CARDINAL,,,en,1.6000000000000005
-xDrive,xDrive,PRODUCT,,,en,1.6000000000000005
-2010,2010,DATE,,,en,1.6000000000000005
+228,228,CARDINAL,,,en,1.7
+"85,000","85,000",CARDINAL,,,en,1.7
 1990,1990,DATE,,,en,1.6000000000000005
+xDrive,xDrive,PRODUCT,,,en,1.6000000000000005
+2004,2004,DATE,,,en,1.6000000000000005
+2000,2000,CARDINAL,,,en,1.6000000000000005
+2010,2010,DATE,,,en,1.6000000000000005
+About 1.25 million,About 1.25 million,CARDINAL,,,en,1.6000000000000005
 months,months,DATE,,,en,1.6
-Scorpio,Scorpio,PRODUCT,,,en,1.5000000000000004
-Silverado,Silverado,PRODUCT,,,en,1.5000000000000004
-This 2000,This 2000,DATE,,,en,1.5000000000000004
-V6,V6,PRODUCT,,,en,1.5000000000000004
 October 2025,October 2025,DATE,,,en,1.5000000000000004
-Asian,Asian,NORP,,,en,1.5000000000000004
 2021,2021,DATE,,,en,1.5000000000000004
-the day,the day,DATE,,,en,1.5000000000000004
 1996,1996,DATE,,,en,1.5000000000000004
-sixth,sixth,ORDINAL,,,en,1.5000000000000004
-3,3,CARDINAL,,,en,1.5000000000000004
-911,911,CARDINAL,,,en,1.5000000000000004
-the year,the year,DATE,,,en,1.5000000000000004
-10,10,CARDINAL,,,en,1.5000000000000004
-13k miles,13k miles,QUANTITY,,,en,1.5000000000000004
-December,December,DATE,,,en,1.5000000000000004
 third,third,ORDINAL,,,en,1.5000000000000004
-5,5,CARDINAL,,,en,1.5000000000000004
-335i,335i,PRODUCT,,,en,1.4000000000000004
+Scorpio,Scorpio,PRODUCT,,,en,1.5000000000000004
+3,3,CARDINAL,,,en,1.5000000000000004
+Asian,Asian,NORP,,,en,1.5000000000000004
+This 2000,This 2000,DATE,,,en,1.5000000000000004
+the day,the day,DATE,,,en,1.5000000000000004
+December,December,DATE,,,en,1.5000000000000004
+sixth,sixth,ORDINAL,,,en,1.5000000000000004
+911,911,CARDINAL,,,en,1.5000000000000004
+V6,V6,PRODUCT,,,en,1.5000000000000004
+13k miles,13k miles,QUANTITY,,,en,1.5000000000000004
+Silverado,Silverado,PRODUCT,,,en,1.5000000000000004
 2018,2018,DATE,,,en,1.4000000000000004
-This 2006,This 2006,EVENT,,,en,1.4000000000000004
-1986,1986,DATE,,,en,1.4000000000000004
+328i,328i,PRODUCT,,,en,1.4000000000000004
+335i,335i,PRODUCT,,,en,1.4000000000000004
 Republicans,Republicans,NORP,,,en,1.4000000000000004
 M5,M5,PRODUCT,,,en,1.4000000000000004
-328i,328i,PRODUCT,,,en,1.4000000000000004
-330Ci,330Ci,PRODUCT,,,en,1.4000000000000004
 1985,1985,DATE,,,en,1.4000000000000004
+330Ci,330Ci,PRODUCT,,,en,1.4000000000000004
+1986,1986,DATE,,,en,1.4000000000000004
+This 2006,This 2006,EVENT,,,en,1.4000000000000004
 November 2025,November 2025,DATE,,,en,1.4000000000000001
-11k miles,11k miles,QUANTITY,,,en,1.3000000000000003
-M3,M3,PRODUCT,,,en,1.3000000000000003
-44k miles,44k miles,QUANTITY,,,en,1.3000000000000003
-mornings,mornings,TIME,,,en,1.3000000000000003
-Porsche,Porsche,EVENT,,,en,1.3000000000000003
+years,years,DATE,,,en,1.4000000000000001
+earlier this year,earlier this year,DATE,,,en,1.3000000000000003
+Golf Mk8.5,Golf Mk8.5,PRODUCT,,,en,1.3000000000000003
 the model year,the model year,DATE,,,en,1.3000000000000003
-Sikhs,Sikhs,NORP,,,en,1.3000000000000003
 52k miles,52k miles,QUANTITY,,,en,1.3000000000000003
+67k miles,67k miles,QUANTITY,,,en,1.3000000000000003
+Sikhs,Sikhs,NORP,,,en,1.3000000000000003
 15,15,CARDINAL,,,en,1.3000000000000003
-2020,2020,CARDINAL,,,en,1.3000000000000003
+the final year,the final year,DATE,,,en,1.3000000000000003
 2UZ,2UZ,CARDINAL,,,en,1.3000000000000003
 last week,last week,DATE,,,en,1.3000000000000003
-Golf Mk8.5,Golf Mk8.5,PRODUCT,,,en,1.3000000000000003
+2020,2020,CARDINAL,,,en,1.3000000000000003
 40th,40th,ORDINAL,,,en,1.3000000000000003
-the final year,the final year,DATE,,,en,1.3000000000000003
-this spooky season,this spooky season,DATE,,,en,1.3000000000000003
-67k miles,67k miles,QUANTITY,,,en,1.3000000000000003
-1,1,CARDINAL,,,en,1.3000000000000003
+M3,M3,PRODUCT,,,en,1.3000000000000003
+11k miles,11k miles,QUANTITY,,,en,1.3000000000000003
 this past week,this past week,DATE,,,en,1.3000000000000003
-earlier this year,earlier this year,DATE,,,en,1.3000000000000003
-late 2025,late 2025,DATE,,,en,1.3
-the Manhattan Bridge,the Manhattan Bridge,FAC,,,en,1.3
-9 a.m.,9 a.m.,TIME,,,en,1.3
+this spooky season,this spooky season,DATE,,,en,1.3000000000000003
+44k miles,44k miles,QUANTITY,,,en,1.3000000000000003
+Porsche,Porsche,EVENT,,,en,1.3000000000000003
 zero,zero,CARDINAL,,,en,1.3
+2023.</li><li,2023.</li><li,CARDINAL,,,en,1.3
+the Manhattan Bridge,the Manhattan Bridge,FAC,,,en,1.3
+this winter,this winter,DATE,,,en,1.3
 Winter Offensive,Winter Offensive,EVENT,,,en,1.3
-2022,2022,CARDINAL,,,en,1.2000000000000002
-944 Turbo,944 Turbo,PRODUCT,,,en,1.2000000000000002
-midday,midday,TIME,,,en,1.2000000000000002
-1997,1997,DATE,,,en,1.2000000000000002
-LTZ,LTZ,PRODUCT,,,en,1.2000000000000002
-September-quarter,September-quarter,DATE,,,en,1.2000000000000002
-302,302,CARDINAL,,,en,1.2000000000000002
-330i,330i,PRODUCT,,,en,1.2000000000000002
-525i,525i,PRODUCT,,,en,1.2000000000000002
-Five,Five,CARDINAL,,,en,1.2000000000000002
-535i,535i,PRODUCT,,,en,1.2000000000000002
-This 2013,This 2013,DATE,,,en,1.2000000000000002
-the 1950s,the 1950s,DATE,,,en,1.2000000000000002
-1977,1977,DATE,,,en,1.2000000000000002
-3000GT SL,3000GT SL,PRODUCT,,,en,1.2000000000000002
-1982,1982,DATE,,,en,1.2000000000000002
-2002,2002,DATE,,,en,1.2000000000000002
-25k,25k,CARDINAL,,,en,1.2000000000000002
-100mm,100mm,QUANTITY,,,en,1.2000000000000002
-GTO,GTO,PRODUCT,,,en,1.2000000000000002
-quarter,quarter,CARDINAL,,,en,1.2000000000000002
-13k,13k,CARDINAL,,,en,1.2000000000000002
-458,458,CARDINAL,,,en,1.2000000000000002
-this month,this month,DATE,,,en,1.2000000000000002
-Explorer,Explorer,PRODUCT,,,en,1.2000000000000002
-Ranger,Ranger,PRODUCT,,,en,1.2000000000000002
-1972,1972,DATE,,,en,1.2000000000000002
-Autumn,Autumn,DATE,,,en,1.2000000000000002
-This 2012,This 2012,DATE,,,en,1.2000000000000002
-25,25,CARDINAL,,,en,1.2000000000000002
-GX460,GX460,PRODUCT,,,en,1.2000000000000002
-Alpina,Alpina,PRODUCT,,,en,1.2000000000000002
-SuperCab Flareside,SuperCab Flareside,PRODUCT,,,en,1.2000000000000002
-This 2010,This 2010,DATE,,,en,1.2000000000000002
-T5,T5,PRODUCT,,,en,1.2000000000000002
-4.4-liter,4.4-liter,CARDINAL,,,en,1.2000000000000002
-100,100,CARDINAL,,,en,1.2000000000000002
-C70,C70,PRODUCT,,,en,1.2000000000000002
-S8,S8,PRODUCT,,,en,1.2000000000000002
-GT,GT,PRODUCT,,,en,1.2000000000000002
-Strobe Lights,Strobe Lights,WORK_OF_ART,,,en,1.2000000000000002
-this Halloween,this Halloween,DATE,,,en,1.2000000000000002
-Glucose Goddess,Glucose Goddess,WORK_OF_ART,,,en,1.2000000000000002
-44k,44k,CARDINAL,,,en,1.2000000000000002
-hours,hours,TIME,,,en,1.2000000000000002
-This 2008,This 2008,DATE,,,en,1.2000000000000002
-day,day,DATE,,,en,1.2000000000000002
-five months,five months,DATE,,,en,1.2000000000000002
-summer,summer,DATE,,,en,1.2000000000000002
-Altima,Altima,PRODUCT,,,en,1.2000000000000002
-300C,300C,PRODUCT,,,en,1.2000000000000002
-Wrangler,Wrangler,PRODUCT,,,en,1.2000000000000002
-European,European,NORP,,,en,1.2000000000000002
-"just 42,000","just 42,000",CARDINAL,,,en,1.2000000000000002
-mid-week,mid-week,DATE,,,en,1.2000000000000002
-B7 xDrive,B7 xDrive,PRODUCT,,,en,1.2000000000000002
-three years,three years,DATE,,,en,1.2000000000000002
+minutes,minutes,TIME,,,en,1.3
+late 2025,late 2025,DATE,,,en,1.3
+9 a.m.,9 a.m.,TIME,,,en,1.3
 "99,000","99,000",MONEY,,,en,1.2000000000000002
-1992,1992,DATE,,,en,1.2000000000000002
+quarter,quarter,CARDINAL,,,en,1.2000000000000002
+Altima,Altima,PRODUCT,,,en,1.2000000000000002
+25,25,CARDINAL,,,en,1.2000000000000002
+100mm,100mm,QUANTITY,,,en,1.2000000000000002
+1997,1997,DATE,,,en,1.2000000000000002
+GTO,GTO,PRODUCT,,,en,1.2000000000000002
+summer,summer,DATE,,,en,1.2000000000000002
+25k,25k,CARDINAL,,,en,1.2000000000000002
+458,458,CARDINAL,,,en,1.2000000000000002
+day,day,DATE,,,en,1.2000000000000002
+525i,525i,PRODUCT,,,en,1.2000000000000002
+September-quarter,September-quarter,DATE,,,en,1.2000000000000002
+Wrangler,Wrangler,PRODUCT,,,en,1.2000000000000002
+13k,13k,CARDINAL,,,en,1.2000000000000002
+44k,44k,CARDINAL,,,en,1.2000000000000002
+This 2013,This 2013,DATE,,,en,1.2000000000000002
+Autumn,Autumn,DATE,,,en,1.2000000000000002
+three years,three years,DATE,,,en,1.2000000000000002
+100,100,CARDINAL,,,en,1.2000000000000002
+302,302,CARDINAL,,,en,1.2000000000000002
+This 2012,This 2012,DATE,,,en,1.2000000000000002
+2002,2002,DATE,,,en,1.2000000000000002
+Alpina,Alpina,PRODUCT,,,en,1.2000000000000002
+B7 xDrive,B7 xDrive,PRODUCT,,,en,1.2000000000000002
+S8,S8,PRODUCT,,,en,1.2000000000000002
 Tiptronic S,Tiptronic S,PRODUCT,,,en,1.2000000000000002
+GT,GT,PRODUCT,,,en,1.2000000000000002
+LTZ,LTZ,PRODUCT,,,en,1.2000000000000002
+This 2010,This 2010,DATE,,,en,1.2000000000000002
+mid-week,mid-week,DATE,,,en,1.2000000000000002
+Explorer,Explorer,PRODUCT,,,en,1.2000000000000002
+3000GT SL,3000GT SL,PRODUCT,,,en,1.2000000000000002
+1977,1977,DATE,,,en,1.2000000000000002
+Glucose Goddess,Glucose Goddess,WORK_OF_ART,,,en,1.2000000000000002
+4.4-liter,4.4-liter,CARDINAL,,,en,1.2000000000000002
+"just 42,000","just 42,000",CARDINAL,,,en,1.2000000000000002
+1992,1992,DATE,,,en,1.2000000000000002
+2022,2022,CARDINAL,,,en,1.2000000000000002
+1972,1972,DATE,,,en,1.2000000000000002
+GX460,GX460,PRODUCT,,,en,1.2000000000000002
+SuperCab Flareside,SuperCab Flareside,PRODUCT,,,en,1.2000000000000002
+This 2008,This 2008,DATE,,,en,1.2000000000000002
+1982,1982,DATE,,,en,1.2000000000000002
+535i,535i,PRODUCT,,,en,1.2000000000000002
+this month,this month,DATE,,,en,1.2000000000000002
+midday,midday,TIME,,,en,1.2000000000000002
+300C,300C,PRODUCT,,,en,1.2000000000000002
+944 Turbo,944 Turbo,PRODUCT,,,en,1.2000000000000002
+330i,330i,PRODUCT,,,en,1.2000000000000002
+Ranger,Ranger,PRODUCT,,,en,1.2000000000000002
 32,32,CARDINAL,,,en,1.2000000000000002
-Blizzard Pearl,Blizzard Pearl,FAC,,,en,1.1
-The Declaration of Independence,The Declaration of Independence,WORK_OF_ART,,,en,1.1
-dusk,dusk,TIME,,,en,1.1
-Light Parchment,Light Parchment,PRODUCT,,,en,1.1
-56k miles,56k miles,QUANTITY,,,en,1.1
-300SD,300SD,PRODUCT,,,en,1.1
-37k miles,37k miles,QUANTITY,,,en,1.1
-the Passage Of Oaths,the Passage Of Oaths,LAW,,,en,1.1
-winter day,winter day,DATE,,,en,1.1
-62k miles,62k miles,QUANTITY,,,en,1.1
-February 2020,February 2020,DATE,,,en,1.1
-5.7-liter LT5 V8,5.7-liter LT5 V8,PRODUCT,,,en,1.1
-1.65,1.65,MONEY,,,en,1.1
-29k miles,29k miles,QUANTITY,,,en,1.1
-302ci Windsor V8,302ci Windsor V8,PRODUCT,,,en,1.1
-911S,911S,PRODUCT,,,en,1.1
-4 cabriolet,4 cabriolet,PRODUCT,,,en,1.1
-Disturbed Sleepers,Disturbed Sleepers,WORK_OF_ART,,,en,1.1
+this Halloween,this Halloween,DATE,,,en,1.2000000000000002
+five months,five months,DATE,,,en,1.2000000000000002
+T5,T5,PRODUCT,,,en,1.2000000000000002
+the 1950s,the 1950s,DATE,,,en,1.2000000000000002
+C70,C70,PRODUCT,,,en,1.2000000000000002
+Strobe Lights,Strobe Lights,WORK_OF_ART,,,en,1.2000000000000002
 Sleep-Aid Users,Sleep-Aid Users,WORK_OF_ART,,,en,1.1
-under six to seven hours,under six to seven hours,DATE,,,en,1.1
 Short Sleepers,Short Sleepers,WORK_OF_ART,,,en,1.1
-Data Fog Intensifying for Fed as Shutdown Delays US Inflation Numbers,Data Fog Intensifying for Fed as Shutdown Delays US Inflation Numbers,WORK_OF_ART,,,en,1.1
+French,French,NORP,,,en,1.1
+under six to seven hours,under six to seven hours,DATE,,,en,1.1
 76k miles,76k miles,QUANTITY,,,en,1.1
-monthly,monthly,DATE,,,en,1.1
-1776,1776,DATE,,,en,1.1
-the last 28 years,the last 28 years,DATE,,,en,1.1
-November 2023,November 2023,DATE,,,en,1.1
-Mad Max,Mad Max,WORK_OF_ART,,,en,1.1
-November 1,November 1,DATE,,,en,1.1
-the first morning,the first morning,TIME,,,en,1.1
-60 hours,60 hours,TIME,,,en,1.1
-1925,1925,DATE,,,en,1.1
-venusian,venusian,NORP,,,en,1.1
-martian,martian,NORP,,,en,1.1
-midnight,midnight,TIME,,,en,1.1
-Light Cashmere,Light Cashmere,PRODUCT,,,en,1.1
-3.5 SR,3.5 SR,PRODUCT,,,en,1.1
-Silent Hill 2,Silent Hill 2,PRODUCT,,,en,1.1
+63k miles,63k miles,QUANTITY,,,en,1.1
+16k miles,16k miles,QUANTITY,,,en,1.1
+4k miles,4k miles,QUANTITY,,,en,1.1
+Disturbed Sleepers,Disturbed Sleepers,WORK_OF_ART,,,en,1.1
+5.7-liter LT5 V8,5.7-liter LT5 V8,PRODUCT,,,en,1.1
+12,12,CARDINAL,,,en,1.1
+1.65,1.65,MONEY,,,en,1.1
++7054,+7054,NORP,,,en,1.1
+overnight,overnight,TIME,,,en,1.1
+28 Halloween,28 Halloween,DATE,,,en,1.1
+Volk,Volk,PRODUCT,,,en,1.1
+later in the week,later in the week,DATE,,,en,1.1
+Light Parchment,Light Parchment,PRODUCT,,,en,1.1
+28,28,CARDINAL,,,en,1.1
+911S,911S,PRODUCT,,,en,1.1
+millions,millions,CARDINAL,,,en,1.1
+tonight,tonight,TIME,,,en,1.1
+Moonlight Blue Metallic,Moonlight Blue Metallic,WORK_OF_ART,,,en,1.1
+56k miles,56k miles,QUANTITY,,,en,1.1
+the last ten days to two weeks,the last ten days to two weeks,DATE,,,en,1.1
 The end of the year,The end of the year,DATE,,,en,1.1
-Barracuda Gran Coupe,Barracuda Gran Coupe,PRODUCT,,,en,1.1
-"1,615","1,615",CARDINAL,,,en,1.1
+Brilliant Black,Brilliant Black,WORK_OF_ART,,,en,1.1
+Silent Hill 2,Silent Hill 2,PRODUCT,,,en,1.1
+Crew Cab,Crew Cab,PRODUCT,,,en,1.1
+Light Cashmere,Light Cashmere,PRODUCT,,,en,1.1
+February 2020,February 2020,DATE,,,en,1.1
+November 1,November 1,DATE,,,en,1.1
+62k miles,62k miles,QUANTITY,,,en,1.1
+302ci Windsor V8,302ci Windsor V8,PRODUCT,,,en,1.1
+the next week,the next week,DATE,,,en,1.1
+37k miles,37k miles,QUANTITY,,,en,1.1
+martian,martian,NORP,,,en,1.1
 Cayenne Diesel,Cayenne Diesel,PRODUCT,,,en,1.1
-Half Moon Bay,Half Moon Bay,QUANTITY,,,en,1.1
+29k miles,29k miles,QUANTITY,,,en,1.1
+venusian,venusian,NORP,,,en,1.1
+this weekend,this weekend,DATE,,,en,1.1
+C5,C5,PRODUCT,,,en,1.1
+Each year,Each year,DATE,,,en,1.1
+5 degrees,5 degrees,QUANTITY,,,en,1.1
+Chevrolet,Chevrolet,PRODUCT,,,en,1.1
+February 2025,February 2025,DATE,,,en,1.1
+226 miles,226 miles,QUANTITY,,,en,1.1
+53k miles,53k miles,QUANTITY,,,en,1.1
+the years,the years,DATE,,,en,1.1
+June 2022,June 2022,DATE,,,en,1.1
+September this year,September this year,DATE,,,en,1.1
+448,448,CARDINAL,,,en,1.1
+37k,37k,CARDINAL,,,en,1.1
+November 2023,November 2023,DATE,,,en,1.1
+Forester,Forester,PRODUCT,,,en,1.1
+over 95 percent,over 95 percent,PERCENT,,,en,1.1
+First,First,ORDINAL,,,en,1.1
+D-Max,D-Max,PRODUCT,,,en,1.1
+B-29 Superfortress,B-29 Superfortress,PRODUCT,,,en,1.1
+the Passage Of Oaths,the Passage Of Oaths,LAW,,,en,1.1
+the past decade,the past decade,DATE,,,en,1.1
+July 2023,July 2023,DATE,,,en,1.1
+"about 3,900 miles","about 3,900 miles",QUANTITY,,,en,1.1
 229,229,CARDINAL,,,en,1.1
 325i,325i,PRODUCT,,,en,1.1
-This week,This week,DATE,,,en,1.1
-1971,1971,DATE,,,en,1.1
-29,29,CARDINAL,,,en,1.1
-Nov 10,Nov 10,DATE,,,en,1.1
-the next week,the next week,DATE,,,en,1.1
-30 Feet,30 Feet,QUANTITY,,,en,1.1
-12,12,CARDINAL,,,en,1.1
-overnight,overnight,TIME,,,en,1.1
-a spirited week,a spirited week,DATE,,,en,1.1
-July 2023,July 2023,DATE,,,en,1.1
-Chevrolet,Chevrolet,PRODUCT,,,en,1.1
-226 miles,226 miles,QUANTITY,,,en,1.1
-448,448,CARDINAL,,,en,1.1
-B-29 Superfortress,B-29 Superfortress,PRODUCT,,,en,1.1
-DOHC V6,DOHC V6,PRODUCT,,,en,1.1
-24k miles,24k miles,QUANTITY,,,en,1.1
-Day date,Day date,DATE,,,en,1.1
-the last ten days to two weeks,the last ten days to two weeks,DATE,,,en,1.1
-Mini Cooper S Roadster,Mini Cooper S Roadster,EVENT,,,en,1.1
-This 2022,This 2022,DATE,,,en,1.1
-a month,a month,DATE,,,en,1.1
-September this year,September this year,DATE,,,en,1.1
-+7054,+7054,NORP,,,en,1.1
-Lair,Lair,PRODUCT,,,en,1.1
-53k miles,53k miles,QUANTITY,,,en,1.1
-February 2025,February 2025,DATE,,,en,1.1
-1950s,1950s,DATE,,,en,1.1
-over 95 percent,over 95 percent,PERCENT,,,en,1.1
-4k miles,4k miles,QUANTITY,,,en,1.1
-2009,2009,DATE,,,en,1.1
-3.75 percent to four percent,3.75 percent to four percent,PERCENT,,,en,1.1
-Steptronic,Steptronic,PRODUCT,,,en,1.1
-several years ago,several years ago,DATE,,,en,1.1
-Telephone Tales,Telephone Tales,WORK_OF_ART,,,en,1.1
-Forester,Forester,PRODUCT,,,en,1.1
-109k,109k,CARDINAL,,,en,1.1
-tonight,tonight,TIME,,,en,1.1
-C5,C5,PRODUCT,,,en,1.1
-16k miles,16k miles,QUANTITY,,,en,1.1
-Brilliant Black,Brilliant Black,WORK_OF_ART,,,en,1.1
-Tiptronic,Tiptronic,PRODUCT,,,en,1.1
-French,French,NORP,,,en,1.1
-October 2024,October 2024,DATE,,,en,1.1
-5 degrees,5 degrees,QUANTITY,,,en,1.1
-German,German,NORP,,,en,1.1
-the past decade,the past decade,DATE,,,en,1.1
-June 2025,June 2025,DATE,,,en,1.1
-this weekend,this weekend,DATE,,,en,1.1
 First Edition,First Edition,WORK_OF_ART,,,en,1.1
-later in the week,later in the week,DATE,,,en,1.1
-millions,millions,CARDINAL,,,en,1.1
-121k miles,121k miles,QUANTITY,,,en,1.1
-Phaeton,Phaeton,PRODUCT,,,en,1.1
-"100,000","100,000",MONEY,,,en,1.1
-September 2025,September 2025,DATE,,,en,1.1
-this holiday season,this holiday season,DATE,,,en,1.1
+This 2022,This 2022,DATE,,,en,1.1
+a spirited week,a spirited week,DATE,,,en,1.1
+1925,1925,DATE,,,en,1.1
+Oct 4-12,Oct 4-12,DATE,,,en,1.1
+Lair,Lair,PRODUCT,,,en,1.1
 Crew Cab Duramax,Crew Cab Duramax,PRODUCT,,,en,1.1
-Access Cab,Access Cab,PRODUCT,,,en,1.1
+Telephone Tales,Telephone Tales,WORK_OF_ART,,,en,1.1
+winter day,winter day,DATE,,,en,1.1
+29,29,CARDINAL,,,en,1.1
+several years ago,several years ago,DATE,,,en,1.1
+3.75 percent to four percent,3.75 percent to four percent,PERCENT,,,en,1.1
+Nissan Skyline GT-R,Nissan Skyline GT-R,FAC,,,en,1.1
+60 hours,60 hours,TIME,,,en,1.1
+Mad Max,Mad Max,WORK_OF_ART,,,en,1.1
+Bayside Blue,Bayside Blue,FAC,,,en,1.1
+2009,2009,DATE,,,en,1.1
+the first morning,the first morning,TIME,,,en,1.1
+1950s,1950s,DATE,,,en,1.1
+30 Feet,30 Feet,QUANTITY,,,en,1.1
 2500HD,2500HD,PRODUCT,,,en,1.1
-37k,37k,CARDINAL,,,en,1.1
+4 cabriolet,4 cabriolet,PRODUCT,,,en,1.1
+the last 28 years,the last 28 years,DATE,,,en,1.1
+the week,the week,DATE,,,en,1.1
+a month,a month,DATE,,,en,1.1
+540i,540i,PRODUCT,,,en,1.1
+M6,M6,PRODUCT,,,en,1.1
+a 5.3-liter,a 5.3-liter,CARDINAL,,,en,1.1
+"1,615","1,615",CARDINAL,,,en,1.1
+Access Cab,Access Cab,PRODUCT,,,en,1.1
+2021-23,2021-23,DATE,,,en,1.1
+KW,KW,CARDINAL,,,en,1.1
+121k miles,121k miles,QUANTITY,,,en,1.1
+109k,109k,CARDINAL,,,en,1.1
 annual,annual,DATE,,,en,1.1
 100—our,100—our,CARDINAL,,,en,1.1
-hundreds of years,hundreds of years,DATE,,,en,1.1
-the 139k miles,the 139k miles,QUANTITY,,,en,1.1
+this holiday season,this holiday season,DATE,,,en,1.1
+June 2025,June 2025,DATE,,,en,1.1
 7,7,CARDINAL,,,en,1.1
-28 Halloween,28 Halloween,DATE,,,en,1.1
 30k miles,30k miles,QUANTITY,,,en,1.1
-21,21,CARDINAL,,,en,1.1
-96k,96k,CARDINAL,,,en,1.1
 54k miles,54k miles,QUANTITY,,,en,1.1
+Prestige,Prestige,PRODUCT,,,en,1.1
+just 13k miles,just 13k miles,QUANTITY,,,en,1.1
 This 2017,This 2017,DATE,,,en,1.1
 47k miles,47k miles,QUANTITY,,,en,1.1
-years,years,DATE,,,en,1.1
 22k miles,22k miles,QUANTITY,,,en,1.1
-294 miles,294 miles,QUANTITY,,,en,1.1
-9k miles,9k miles,QUANTITY,,,en,1.1
-Nissan Skyline GT-R,Nissan Skyline GT-R,FAC,,,en,1.1
-a Top Flight Award,a Top Flight Award,PRODUCT,,,en,1.1
-LS3 V8,LS3 V8,PRODUCT,,,en,1.1
-Warm Charcoal,Warm Charcoal,PRODUCT,,,en,1.1
-6th,6th,ORDINAL,,,en,1.1
-fifteen years or so,fifteen years or so,DATE,,,en,1.1
-250,250,CARDINAL,,,en,1.1
+1971,1971,DATE,,,en,1.1
+Half Moon Bay,Half Moon Bay,QUANTITY,,,en,1.1
+July 2025,July 2025,DATE,,,en,1.1
+Day date,Day date,DATE,,,en,1.1
+27 Halloween,27 Halloween,DATE,,,en,1.1
+This week,This week,DATE,,,en,1.1
 Pixel 10,Pixel 10,PRODUCT,,,en,1.1
-540i,540i,PRODUCT,,,en,1.1
-Glacier White Pearl,Glacier White Pearl,WORK_OF_ART,,,en,1.1
-Moonlight Blue Metallic,Moonlight Blue Metallic,WORK_OF_ART,,,en,1.1
-Prestige,Prestige,PRODUCT,,,en,1.1
-9 am,9 am,TIME,,,en,1.1
-9,9,CARDINAL,,,en,1.1
+6th,6th,ORDINAL,,,en,1.1
 25k miles,25k miles,QUANTITY,,,en,1.1
 13 years,13 years,DATE,,,en,1.1
+Barracuda Gran Coupe,Barracuda Gran Coupe,PRODUCT,,,en,1.1
 35k miles,35k miles,QUANTITY,,,en,1.1
-M6,M6,PRODUCT,,,en,1.1
-63k miles,63k miles,QUANTITY,,,en,1.1
+Blizzard Pearl,Blizzard Pearl,FAC,,,en,1.1
 66k miles,66k miles,QUANTITY,,,en,1.1
-October 1,October 1,DATE,,,en,1.1
-2021-23,2021-23,DATE,,,en,1.1
-January 2013,January 2013,DATE,,,en,1.1
-KW,KW,CARDINAL,,,en,1.1
-approximately 35k,approximately 35k,CARDINAL,,,en,1.1
-just 13k miles,just 13k miles,QUANTITY,,,en,1.1
+9k miles,9k miles,QUANTITY,,,en,1.1
 68k miles,68k miles,QUANTITY,,,en,1.1
-a 5.3-liter,a 5.3-liter,CARDINAL,,,en,1.1
 Vortec,Vortec,PRODUCT,,,en,1.1
-42k kilometers,42k kilometers,QUANTITY,,,en,1.1
-Soviet,Soviet,NORP,,,en,1.1
-4WD,4WD,CARDINAL,,,en,1.1
-First,First,ORDINAL,,,en,1.1
-Comet C/2025 A6,Comet C/2025 A6,PRODUCT,,,en,1.1
-roughly 50 million,roughly 50 million,CARDINAL,,,en,1.1
-two-thirds,two-thirds,CARDINAL,,,en,1.1
-age 35,age 35,DATE,,,en,1.1
+9 years,9 years,DATE,,,en,1.1
+Steptronic,Steptronic,PRODUCT,,,en,1.1
+300SD,300SD,PRODUCT,,,en,1.1
+Phaeton,Phaeton,PRODUCT,,,en,1.1
+October 1,October 1,DATE,,,en,1.1
 Two decades,Two decades,DATE,,,en,1.1
-Canadian,Canadian,NORP,,,en,1.1
-28,28,CARDINAL,,,en,1.1
-xLine,xLine,PRODUCT,,,en,1.1
 a 12 year,a 12 year,DATE,,,en,1.1
 around 4pm,around 4pm,TIME,,,en,1.1
-Americans,Americans,NORP,,,en,1.1
-27k miles,27k miles,QUANTITY,,,en,1.1
-17k,17k,CARDINAL,,,en,1.1
-July 2025,July 2025,DATE,,,en,1.1
-27 Halloween,27 Halloween,DATE,,,en,1.1
-Volk,Volk,PRODUCT,,,en,1.1
-This 2018,This 2018,DATE,,,en,1.1
-3.0L,3.0L,CARDINAL,,,en,1.1
-314,314,MONEY,,,en,1.1
-1957,1957,DATE,,,en,1.1
-D-Max,D-Max,PRODUCT,,,en,1.1
-19k miles,19k miles,QUANTITY,,,en,1.1
-Crew Cab,Crew Cab,PRODUCT,,,en,1.1
-"Sunday, October 12","Sunday, October 12",DATE,,,en,1.1
-Chapter One,Chapter One,LAW,,,en,1.1
-June 2022,June 2022,DATE,,,en,1.1
-October 28,October 28,DATE,,,en,1.1
-TDI,TDI,PRODUCT,,,en,1.1
-Sabbath,Sabbath,LAW,,,en,1.1
-31k miles,31k miles,QUANTITY,,,en,1.1
-8,8,CARDINAL,,,en,1.1
-6.9,6.9,CARDINAL,,,en,1.1
-Sport Line,Sport Line,PRODUCT,,,en,1.1
-72k miles,72k miles,QUANTITY,,,en,1.1
-Caramel,Caramel,NORP,,,en,1.1
-Sahara,Sahara,PRODUCT,,,en,1.1
-more than one,more than one,CARDINAL,,,en,1.1
-the years,the years,DATE,,,en,1.1
-National Gumbo Day,National Gumbo Day,DATE,,,en,1.1
-the week,the week,DATE,,,en,1.1
-This 2014,This 2014,DATE,,,en,1.1
-the past few weeks,the past few weeks,DATE,,,en,1.1
-World Cup,World Cup,EVENT,,,en,1.1
-Synthetic Aperture Radar,Synthetic Aperture Radar,PRODUCT,,,en,1.1
-350,350,CARDINAL,,,en,1.1
+9 am,9 am,TIME,,,en,1.1
 117k miles,117k miles,QUANTITY,,,en,1.1
-Each year,Each year,DATE,,,en,1.1
-the 75k miles,the 75k miles,QUANTITY,,,en,1.1
 Double Cab,Double Cab,PRODUCT,,,en,1.1
-October 1957,October 1957,DATE,,,en,1.1
-"about 3,900 miles","about 3,900 miles",QUANTITY,,,en,1.1
-last one,last one,DATE,,,en,1.1
-9 years,9 years,DATE,,,en,1.1
-thousands of hours,thousands of hours,TIME,,,en,1.1
-March 2015,March 2015,DATE,,,en,1.1
-23 years,23 years,DATE,,,en,1.1
-36k,36k,CARDINAL,,,en,1.1
-87k miles,87k miles,QUANTITY,,,en,1.1
+the past few weeks,the past few weeks,DATE,,,en,1.1
+Caramel,Caramel,NORP,,,en,1.1
+This 2018,This 2018,DATE,,,en,1.1
+21,21,CARDINAL,,,en,1.1
+42k kilometers,42k kilometers,QUANTITY,,,en,1.1
+4WD,4WD,CARDINAL,,,en,1.1
+hundreds of years,hundreds of years,DATE,,,en,1.1
+fifteen years or so,fifteen years or so,DATE,,,en,1.1
+Soviet,Soviet,NORP,,,en,1.1
+Canadian,Canadian,NORP,,,en,1.1
+Mini Cooper S Roadster,Mini Cooper S Roadster,EVENT,,,en,1.1
+January 2013,January 2013,DATE,,,en,1.1
+17k,17k,CARDINAL,,,en,1.1
+27k miles,27k miles,QUANTITY,,,en,1.1
+dusk,dusk,TIME,,,en,1.1
+xLine,xLine,PRODUCT,,,en,1.1
+age 35,age 35,DATE,,,en,1.1
+9,9,CARDINAL,,,en,1.1
+two-thirds,two-thirds,CARDINAL,,,en,1.1
+roughly 50 million,roughly 50 million,CARDINAL,,,en,1.1
 May 2023,May 2023,DATE,,,en,1.1
-approximately 5k,approximately 5k,CARDINAL,,,en,1.1
-"1,381","1,381",CARDINAL,,,en,1.1
-335450,335450,CARDINAL,,,en,1.1
-Bayside Blue,Bayside Blue,FAC,,,en,1.1
-Oct 4-12,Oct 4-12,DATE,,,en,1.1
-Laguna Seca,Laguna Seca,PRODUCT,,,en,1.1
-the 36k miles,the 36k miles,QUANTITY,,,en,1.1
+Comet C/2025 A6,Comet C/2025 A6,PRODUCT,,,en,1.1
+monthly,monthly,DATE,,,en,1.1
+Data Fog Intensifying for Fed as Shutdown Delays US Inflation Numbers,Data Fog Intensifying for Fed as Shutdown Delays US Inflation Numbers,WORK_OF_ART,,,en,1.1
+last one,last one,DATE,,,en,1.1
+Tiptronic,Tiptronic,PRODUCT,,,en,1.1
+thousands of hours,thousands of hours,TIME,,,en,1.1
 Cayenne GTS,Cayenne GTS,PRODUCT,,,en,1.1
+24k miles,24k miles,QUANTITY,,,en,1.1
+DOHC V6,DOHC V6,PRODUCT,,,en,1.1
+October 1957,October 1957,DATE,,,en,1.1
+more than one,more than one,CARDINAL,,,en,1.1
+September 2025,September 2025,DATE,,,en,1.1
+National Gumbo Day,National Gumbo Day,DATE,,,en,1.1
+87k miles,87k miles,QUANTITY,,,en,1.1
+This 2014,This 2014,DATE,,,en,1.1
+23 years,23 years,DATE,,,en,1.1
+March 2015,March 2015,DATE,,,en,1.1
+a Top Flight Award,a Top Flight Award,PRODUCT,,,en,1.1
+3.0L,3.0L,CARDINAL,,,en,1.1
+LS3 V8,LS3 V8,PRODUCT,,,en,1.1
+Nov 10,Nov 10,DATE,,,en,1.1
+Warm Charcoal,Warm Charcoal,PRODUCT,,,en,1.1
+250,250,CARDINAL,,,en,1.1
+World Cup,World Cup,EVENT,,,en,1.1
+"1,381","1,381",CARDINAL,,,en,1.1
+350,350,CARDINAL,,,en,1.1
+72k miles,72k miles,QUANTITY,,,en,1.1
+Synthetic Aperture Radar,Synthetic Aperture Radar,PRODUCT,,,en,1.1
+German,German,NORP,,,en,1.1
+6.9,6.9,CARDINAL,,,en,1.1
 "1980, 1990","1980, 1990",DATE,,,en,1.1
+335450,335450,CARDINAL,,,en,1.1
+Glacier White Pearl,Glacier White Pearl,WORK_OF_ART,,,en,1.1
+1957,1957,DATE,,,en,1.1
+Sabbath,Sabbath,LAW,,,en,1.1
+294 miles,294 miles,QUANTITY,,,en,1.1
+31k miles,31k miles,QUANTITY,,,en,1.1
+Laguna Seca,Laguna Seca,PRODUCT,,,en,1.1
+Sahara,Sahara,PRODUCT,,,en,1.1
+36k,36k,CARDINAL,,,en,1.1
+October 2024,October 2024,DATE,,,en,1.1
+approximately 5k,approximately 5k,CARDINAL,,,en,1.1
+the 36k miles,the 36k miles,QUANTITY,,,en,1.1
+1776,1776,DATE,,,en,1.1
+approximately 35k,approximately 35k,CARDINAL,,,en,1.1
+The Declaration of Independence,The Declaration of Independence,WORK_OF_ART,,,en,1.1
+midnight,midnight,TIME,,,en,1.1
+3.5 SR,3.5 SR,PRODUCT,,,en,1.1
+the 75k miles,the 75k miles,QUANTITY,,,en,1.1
+314,314,MONEY,,,en,1.1
 767,767,CARDINAL,,,en,1.1
+Sport Line,Sport Line,PRODUCT,,,en,1.1
+the 139k miles,the 139k miles,QUANTITY,,,en,1.1
+October 28,October 28,DATE,,,en,1.1
+"Sunday, October 12","Sunday, October 12",DATE,,,en,1.1
+TDI,TDI,PRODUCT,,,en,1.1
+Chapter One,Chapter One,LAW,,,en,1.1
+96k,96k,CARDINAL,,,en,1.1
+19k miles,19k miles,QUANTITY,,,en,1.1
+Monsoon Gray Metal,Monsoon Gray Metal,WORK_OF_ART,,,en,1.0
+9.9 deg Celsius,9.9 deg Celsius,QUANTITY,,,en,1.0
+Cold,Cold,WORK_OF_ART,,,en,1.0
 2.0-,2.0-,CARDINAL,,,en,1.0
-this morning,this morning,TIME,,,en,1.0
-every minute,every minute,TIME,,,en,1.0
-May afternoon,May afternoon,TIME,,,en,1.0
-+2805 chars],+2805 chars],WORK_OF_ART,,,en,1.0
-3.5 SR Coupe,3.5 SR Coupe,PRODUCT,,,en,1.0
-British,British,NORP,,,en,1.0
 Born From a Wish DLC,Born From a Wish DLC,WORK_OF_ART,,,en,1.0
-Copernicus,Copernicus,PRODUCT,,,en,1.0
+the Innovera MagSafe Wallet,the Innovera MagSafe Wallet,PRODUCT,,,en,1.0
+November 12,November 12,DATE,,,en,1.0
+November 5th,November 5th,DATE,,,en,1.0
+11/07/2025 11:44:36 AM PST,11/07/2025 11:44:36 AM PST,TIME,,,en,1.0
+Xbox,Xbox,PRODUCT,,,en,1.0
+the season,the season,DATE,,,en,1.0
+May afternoon,May afternoon,TIME,,,en,1.0
+9.9 degrees,9.9 degrees,QUANTITY,,,en,1.0
+2025-11-11T12:01:09.689ZRunning,2025-11-11T12:01:09.689ZRunning,DATE,,,en,1.0
+today 10 November 2025,today 10 November 2025,DATE,,,en,1.0
+Fifty years,Fifty years,DATE,,,en,1.0
+turn the minutes to hours,turn the minutes to hours,TIME,,,en,1.0
+This 2015 Mini Cooper S Paceman,This 2015 Mini Cooper S Paceman,EVENT,,,en,1.0
+9.9 degrees Celsius,9.9 degrees Celsius,QUANTITY,,,en,1.0
+"Tuesday, Nov. 11 2025","Tuesday, Nov. 11 2025",DATE,,,en,1.0
+2025-11,2025-11,DATE,,,en,1.0
+the Xbox Series,the Xbox Series,EVENT,,,en,1.0
++1243,+1243,NORP,,,en,1.0
+this morning,this morning,TIME,,,en,1.0
+|,|,DATE,,,en,1.0
+"Monday, Nov. 10","Monday, Nov. 10",DATE,,,en,1.0
+about 1000 hectares,about 1000 hectares,QUANTITY,,,en,1.0
+3.5 SR Coupe,3.5 SR Coupe,PRODUCT,,,en,1.0
+Good Morning,Good Morning,WORK_OF_ART,,,en,1.0
+24k,24k,CARDINAL,,,en,1.0
+the last few days,the last few days,DATE,,,en,1.0
+Silent Hill 2 Remake,Silent Hill 2 Remake,WORK_OF_ART,,,en,1.0
+this school year,this school year,DATE,,,en,1.0
+dozens,dozens,CARDINAL,,,en,1.0
+Super Typhoon Fung-wong,Super Typhoon Fung-wong,EVENT,,,en,1.0
+more than a million,more than a million,CARDINAL,,,en,1.0
+Nearly a million,Nearly a million,CARDINAL,,,en,1.0
+12am to 6pm,12am to 6pm,TIME,,,en,1.0
+Week 45,Week 45,DATE,,,en,1.0
+Hongqi bridge,Hongqi bridge,FAC,,,en,1.0
+M3 Sedan,M3 Sedan,PRODUCT,,,en,1.0
++2070 chars,+2070 chars,WORK_OF_ART,,,en,1.0
+50,50,CARDINAL,,,en,1.0
++2510,+2510,CARDINAL,,,en,1.0
+Chatbot,Chatbot,PRODUCT,,,en,1.0
+the morning,the morning,TIME,,,en,1.0
 "2025
 
 
@@ -480,221 +544,118 @@ Copernicus,Copernicus,PRODUCT,,,en,1.0
 
 
 ",QUANTITY,,,en,1.0
-World War I,World War I,EVENT,,,en,1.0
-Germans,Germans,NORP,,,en,1.0
-May 7,May 7,DATE,,,en,1.0
-6 a.m.,6 a.m.,TIME,,,en,1.0
-Oct,Oct,DATE,,,en,1.0
-over one thousand,over one thousand,CARDINAL,,,en,1.0
-Xbox,Xbox,PRODUCT,,,en,1.0
-Japanese,Japanese,NORP,,,en,1.0
-+2070 chars,+2070 chars,WORK_OF_ART,,,en,1.0
-85,85,DATE,,,en,1.0
-the Innovera MagSafe Wallet,the Innovera MagSafe Wallet,PRODUCT,,,en,1.0
-the Great Smoky Mountains,the Great Smoky Mountains,EVENT,,,en,1.0
-the Blue Ridge Parkway,the Blue Ridge Parkway,FAC,,,en,1.0
 the coming week,the coming week,DATE,,,en,1.0
-dozens,dozens,CARDINAL,,,en,1.0
-about 1000 hectares,about 1000 hectares,QUANTITY,,,en,1.0
-November 5th,November 5th,DATE,,,en,1.0
 the past week,the past week,DATE,,,en,1.0
-One year,One year,DATE,,,en,1.0
-Bonfire Night,Bonfire Night,FAC,,,en,1.0
 "Asia
 ","Asia
 ",NORP,,,en,1.0
+1C.,1C.,CARDINAL,,,en,1.0
 The week,The week,DATE,,,en,1.0
-The weekend,The weekend,DATE,,,en,1.0
-1909-2002,1909-2002,DATE,,,en,1.0
-M3 Sedan,M3 Sedan,PRODUCT,,,en,1.0
-"March 22, 1962","March 22, 1962",DATE,,,en,1.0
-"November 8, 1994","November 8, 1994",DATE,,,en,1.0
-early October,early October,DATE,,,en,1.0
-Smokies,Smokies,PRODUCT,,,en,1.0
-24k,24k,CARDINAL,,,en,1.0
-Nearly a million,Nearly a million,CARDINAL,,,en,1.0
-the Xbox Series,the Xbox Series,EVENT,,,en,1.0
-+1243,+1243,NORP,,,en,1.0
-"November 7, 2005","November 7, 2005",DATE,,,en,1.0
-"7, 2005","7, 2005",DATE,,,en,1.0
-Super Typhoon Fung-wong,Super Typhoon Fung-wong,EVENT,,,en,1.0
-more than a million,more than a million,CARDINAL,,,en,1.0
+6pm,6pm,TIME,,,en,1.0
 more than 1 million,more than 1 million,CARDINAL,,,en,1.0
-"35,726","35,726",CARDINAL,,,en,1.0
-Silent Hill 2 Remake,Silent Hill 2 Remake,WORK_OF_ART,,,en,1.0
-This 2015 Mini Cooper S Paceman,This 2015 Mini Cooper S Paceman,EVENT,,,en,1.0
-85mm,85mm,QUANTITY,,,en,1.0
-Americana,Americana,NORP,,,en,1.0
-Twin Peaks,Twin Peaks,WORK_OF_ART,,,en,1.0
-11/07/2025 11:44:36 AM PST,11/07/2025 11:44:36 AM PST,TIME,,,en,1.0
-Week 45,Week 45,DATE,,,en,1.0
-Monsoon Gray Metal,Monsoon Gray Metal,WORK_OF_ART,,,en,1.0
-10x30 WP,10x30 WP,MONEY,,,en,1.0
-+2510,+2510,CARDINAL,,,en,1.0
-this winter,this winter,DATE,,,en,1.0
-+2418,+2418,NORP,,,en,1.0
-countrys,countrys,NORP,,,en,1.0
-38k-Mile,38k-Mile,QUANTITY,,,en,1.0
-HRE,HRE,PRODUCT,,,en,1.0
-second week,second week,DATE,,,en,1.0
+"Wednesday, Nov. 12 2025","Wednesday, Nov. 12 2025",DATE,,,en,1.0
++1852 chars,+1852 chars,WORK_OF_ART,,,en,1.0
+Copernicus,Copernicus,PRODUCT,,,en,1.0
+Oct,Oct,DATE,,,en,1.0
+Veterans Day,Veterans Day,DATE,,,en,1.0
++10070 chars,+10070 chars,WORK_OF_ART,,,en,1.0
+100 crore rupees,100 crore rupees,MONEY,,,en,1.0
 38,38,CARDINAL,,,en,1.0
-39,39,CARDINAL,,,en,1.0
-December 10 to February 10 next year,December 10 to February 10 next year,DATE,,,en,1.0
-weeks,weeks,DATE,,,en,1.0
-Manipur and Odisha,Manipur and Odisha,FAC,,,en,1.0
-late autumn 2025,late autumn 2025,DATE,,,en,1.0
-some 400 miles,some 400 miles,QUANTITY,,,en,1.0
-640 kilometers,640 kilometers,QUANTITY,,,en,1.0
-LTZ 4x4,LTZ 4x4,PRODUCT,,,en,1.0
-450,450,CARDINAL,,,en,1.0
-"Monday, December 15","Monday, December 15",DATE,,,en,1.0
-Dec 15,Dec 15,DATE,,,en,1.0
-454,454,CARDINAL,,,en,1.0
-More than 8 inc,More than 8 inc,PERCENT,,,en,1.0
-early hours,early hours,TIME,,,en,1.0
-More Than Hundred,More Than Hundred,CARDINAL,,,en,1.0
-Birsa Munda Airport,Birsa Munda Airport,FAC,,,en,1.0
-360,360,CARDINAL,,,en,1.0
-"November 21, 2025","November 21, 2025",DATE,,,en,1.0
-370,370,CARDINAL,,,en,1.0
-391,391,CARDINAL,,,en,1.0
-the day before,the day before,DATE,,,en,1.0
-2023.</li><li,2023.</li><li,CARDINAL,,,en,1.0
-Thanksgiving week,Thanksgiving week,DATE,,,en,1.0
-Monday morning,Monday morning,TIME,,,en,1.0
-Over 100,Over 100,CARDINAL,,,en,1.0
-December 1,December 1,DATE,,,en,1.0
-more than 100,more than 100,CARDINAL,,,en,1.0
-110th,110th,ORDINAL,,,en,1.0
-Dutch,Dutch,NORP,,,en,1.0
-Lelystad airport,Lelystad airport,FAC,,,en,1.0
-240,240,CARDINAL,,,en,1.0
-Consent Framework,Consent Framework,WORK_OF_ART,,,en,1.0
-Convertible,Convertible,PRODUCT,,,en,1.0
-November 27,November 27,DATE,,,en,1.0
-7 am,7 am,TIME,,,en,1.0
-iRobot,iRobot,PRODUCT,,,en,1.0
-Cold,Cold,WORK_OF_ART,,,en,1.0
-Pak,Pak,NORP,,,en,1.0
-Kullu,Kullu,NORP,,,en,1.0
-Delhi airport,Delhi airport,FAC,,,en,1.0
-59,59,CARDINAL,,,en,1.0
-Twenty-seven,Twenty-seven,CARDINAL,,,en,1.0
-fifty-nine,fifty-nine,CARDINAL,,,en,1.0
-CAT-III,CAT-III,PRODUCT,,,en,1.0
-As many as 27,As many as 27,CARDINAL,,,en,1.0
-Delhi Weather Forecast,Delhi Weather Forecast,WORK_OF_ART,,,en,1.0
-170,170,CARDINAL,,,en,1.0
-1.6-l,1.6-l,PRODUCT,,,en,1.0
-more than 500,more than 500,CARDINAL,,,en,1.0
-at least 177,at least 177,CARDINAL,,,en,1.0
-December 19,December 19,DATE,,,en,1.0
-the Delhi International Airport,the Delhi International Airport,FAC,,,en,1.0
-400 mark,400 mark,MONEY,,,en,1.0
-400,400,CARDINAL,,,en,1.0
-"December 20, Saturday","December 20, Saturday",DATE,,,en,1.0
-Indira Gandhi Airport,Indira Gandhi Airport,FAC,,,en,1.0
-Manali,Manali,PRODUCT,,,en,1.0
-At least 11,At least 11,CARDINAL,,,en,1.0
 at least 300,at least 300,CARDINAL,,,en,1.0
-22k-Mile,22k-Mile,QUANTITY,,,en,1.0
-early morning,early morning,TIME,,,en,1.0
 December 16 and December 17,December 16 and December 17,DATE,,,en,1.0
+next year,next year,DATE,,,en,1.0
+Bengaluru Airport,Bengaluru Airport,FAC,,,en,1.0
+daytime,daytime,DATE,,,en,1.0
 The Delhi Airport,The Delhi Airport,FAC,,,en,1.0
+20 degree,20 degree,QUANTITY,,,en,1.0
 Delhi International Airport Limited,Delhi International Airport Limited,FAC,,,en,1.0
 A day,A day,DATE,,,en,1.0
 Tuesday morning,Tuesday morning,TIME,,,en,1.0
 131,131,CARDINAL,,,en,1.0
 Delhi aiport,Delhi aiport,FAC,,,en,1.0
+22k-Mile,22k-Mile,QUANTITY,,,en,1.0
 Challenger R/T,Challenger R/T,PRODUCT,,,en,1.0
-This 2006 Mini Cooper S,This 2006 Mini Cooper S,EVENT,,,en,1.0
 Challenger,Challenger,PRODUCT,,,en,1.0
 Shaker,Shaker,NORP,,,en,1.0
-two decades,two decades,DATE,,,en,1.0
-30 years,30 years,DATE,,,en,1.0
+Britons,Britons,NORP,,,en,1.0
 Delhis main airport,Delhis main airport,FAC,,,en,1.0
 year-end,year-end,DATE,,,en,1.0
+Celsiuis,Celsiuis,PRODUCT,,,en,1.0
+some upto nine hours,some upto nine hours,QUANTITY,,,en,1.0
+iRobot,iRobot,PRODUCT,,,en,1.0
+450,450,CARDINAL,,,en,1.0
+December 10 to February 10 next year,December 10 to February 10 next year,DATE,,,en,1.0
+weeks,weeks,DATE,,,en,1.0
+late autumn 2025,late autumn 2025,DATE,,,en,1.0
+some 400 miles,some 400 miles,QUANTITY,,,en,1.0
+640 kilometers,640 kilometers,QUANTITY,,,en,1.0
++2307,+2307,NORP,,,en,1.0
+at least 14,at least 14,CARDINAL,,,en,1.0
+413,413,CARDINAL,,,en,1.0
+"Monday, December 15","Monday, December 15",DATE,,,en,1.0
+More Than Hundred,More Than Hundred,CARDINAL,,,en,1.0
+Dec 15,Dec 15,DATE,,,en,1.0
+454,454,CARDINAL,,,en,1.0
+7 am,7 am,TIME,,,en,1.0
+December 15,December 15,DATE,,,en,1.0
+more than 30,more than 30,CARDINAL,,,en,1.0
+More than 30,More than 30,CARDINAL,,,en,1.0
+Delhi International Airport,Delhi International Airport,FAC,,,en,1.0
+"December 15, Monday","December 15, Monday",DATE,,,en,1.0
 the third consecutive day,the third consecutive day,DATE,,,en,1.0
 the third straight day,the third straight day,DATE,,,en,1.0
-5am to 10am tomorrow morning,5am to 10am tomorrow morning,TIME,,,en,1.0
-Irish,Irish,NORP,,,en,1.0
-7:05AM,7:05AM,CARDINAL,,,en,1.0
-Thousands,Thousands,CARDINAL,,,en,1.0
-9.9 degrees Celsius,9.9 degrees Celsius,QUANTITY,,,en,1.0
-November 12,November 12,DATE,,,en,1.0
-9.9 degrees,9.9 degrees,QUANTITY,,,en,1.0
-Checklist to Maximize Energy Efficiency,Checklist to Maximize Energy Efficiency,LAW,,,en,1.0
-Fifty years ago today,Fifty years ago today,DATE,,,en,1.0
-the 1990s,the 1990s,DATE,,,en,1.0
-Millions,Millions,CARDINAL,,,en,1.0
-at least one,at least one,CARDINAL,,,en,1.0
-most of the afternoon,most of the afternoon,TIME,,,en,1.0
-9.9 deg Celsius,9.9 deg Celsius,QUANTITY,,,en,1.0
-2pm,2pm,TIME,,,en,1.0
-Cultists,Cultists,NORP,,,en,1.0
-$11 billion,$11 billion,MONEY,,,en,1.0
-1.25 million,1.25 million,CARDINAL,,,en,1.0
-"2,000","2,000",CARDINAL,,,en,1.0
-10x30,10x30,CARDINAL,,,en,1.0
-WP,WP,PRODUCT,,,en,1.0
-10x,10x,CARDINAL,,,en,1.0
-the season,the season,DATE,,,en,1.0
-turn the minutes to hours,turn the minutes to hours,TIME,,,en,1.0
-28.2°,28.2°,QUANTITY,,,en,1.0
-this school year,this school year,DATE,,,en,1.0
-Veterans Day,Veterans Day,DATE,,,en,1.0
-today 10 November 2025,today 10 November 2025,DATE,,,en,1.0
-the morning,the morning,TIME,,,en,1.0
-1C.,1C.,CARDINAL,,,en,1.0
-6pm,6pm,TIME,,,en,1.0
-+1852 chars,+1852 chars,WORK_OF_ART,,,en,1.0
-50,50,CARDINAL,,,en,1.0
-12am to 6pm,12am to 6pm,TIME,,,en,1.0
-Good Morning,Good Morning,WORK_OF_ART,,,en,1.0
-Fifty years,Fifty years,DATE,,,en,1.0
-"Monday, Nov. 10","Monday, Nov. 10",DATE,,,en,1.0
-|,|,DATE,,,en,1.0
-Hongqi bridge,Hongqi bridge,FAC,,,en,1.0
-"Wednesday, Nov. 12 2025","Wednesday, Nov. 12 2025",DATE,,,en,1.0
-2025-11,2025-11,DATE,,,en,1.0
-Chatbot,Chatbot,PRODUCT,,,en,1.0
-"Tuesday, Nov. 11 2025","Tuesday, Nov. 11 2025",DATE,,,en,1.0
-2025-11-11T12:01:09.689ZRunning,2025-11-11T12:01:09.689ZRunning,DATE,,,en,1.0
-1.2 inches,1.2 inches,QUANTITY,,,en,1.0
-30 mm,30 mm,QUANTITY,,,en,1.0
-330 feet,330 feet,QUANTITY,,,en,1.0
-Bahama Beige,Bahama Beige,PRODUCT,,,en,1.0
-Ukrainians,Ukrainians,NORP,,,en,1.0
-+4134 chars,+4134 chars,WORK_OF_ART,,,en,1.0
-seasonal,seasonal,DATE,,,en,1.0
-11pm,11pm,TIME,,,en,1.0
-century-old,century-old,DATE,,,en,1.0
-25 SGM M2,25 SGM M2,PERCENT,,,en,1.0
-Gateway Arch,Gateway Arch,FAC,,,en,1.0
-Indiana Dune,Indiana Dune,FAC,,,en,1.0
-last night,last night,TIME,,,en,1.0
-"1,000 m","1,000 m",QUANTITY,,,en,1.0
-Euro 2016,Euro 2016,EVENT,,,en,1.0
-96th,96th,ORDINAL,,,en,1.0
-… This weekend,… This weekend,DATE,,,en,1.0
-One day,One day,DATE,,,en,1.0
-… This 2005,… This 2005,DATE,,,en,1.0
-372,372,CARDINAL,,,en,1.0
-This weekend,This weekend,DATE,,,en,1.0
-11.4,11.4,CARDINAL,,,en,1.0
-Winter Hiking Gear List,Winter Hiking Gear List,WORK_OF_ART,,,en,1.0
-Morning,Morning,TIME,,,en,1.0
-fall 2025,fall 2025,DATE,,,en,1.0
-Black Sapph,Black Sapph,EVENT,,,en,1.0
-298 feet,298 feet,QUANTITY,,,en,1.0
-well over a year,well over a year,DATE,,,en,1.0
+At least 11,At least 11,CARDINAL,,,en,1.0
+10 degrees Celsius,10 degrees Celsius,QUANTITY,,,en,1.0
+400,400,CARDINAL,,,en,1.0
+"December 20, Saturday","December 20, Saturday",DATE,,,en,1.0
+early Saturday,early Saturday,DATE,,,en,1.0
+Karnal,Karnal,FAC,0.03333333333333333,0.06666666666666667,en,1.0
+75 feet,75 feet,QUANTITY,,,en,1.0
+early morning hours,early morning hours,TIME,,,en,1.0
+early Sunday,early Sunday,DATE,,,en,1.0
+December 21,December 21,DATE,,,en,1.0
+below 10 degrees Celsius,below 10 degrees Celsius,QUANTITY,,,en,1.0
+the Delhi International Airport,the Delhi International Airport,FAC,,,en,1.0
+over 200,over 200,CARDINAL,,,en,1.0
+more than 370,more than 370,CARDINAL,,,en,1.0
+Flight,Flight,PRODUCT,,,en,1.0
++4010 chars,+4010 chars,WORK_OF_ART,,,en,1.0
+Delhis Indira Gandhi International Airport,Delhis Indira Gandhi International Airport,FAC,,,en,1.0
+"December 22, Monday","December 22, Monday",DATE,,,en,1.0
+winter off-season,winter off-season,DATE,,,en,1.0
+the warmest months,the warmest months,DATE,,,en,1.0
+400 mark,400 mark,MONEY,,,en,1.0
+more than 80,more than 80,CARDINAL,,,en,1.0
+20 degrees Celsius,20 degrees Celsius,QUANTITY,,,en,1.0
+CAT-III,CAT-III,PRODUCT,,,en,1.0
+the Tri-Cities,the Tri-Cities,FAC,,,en,1.0
+Manali,Manali,PRODUCT,,,en,1.0
+Kullu,Kullu,NORP,,,en,1.0
+Early morning,Early morning,TIME,,,en,1.0
++8170 chars,+8170 chars,WORK_OF_ART,,,en,1.0
+59,59,CARDINAL,,,en,1.0
+Twenty-seven,Twenty-seven,CARDINAL,,,en,1.0
+fifty-nine,fifty-nine,CARDINAL,,,en,1.0
+As many as 27,As many as 27,CARDINAL,,,en,1.0
+at least 177,at least 177,CARDINAL,,,en,1.0
+12/22/2025,12/22/2025,DATE,,,en,1.0
+"December 23, Tuesday","December 23, Tuesday",DATE,,,en,1.0
+"Friday, December 19","Friday, December 19",DATE,,,en,1.0
+90,90,CARDINAL,,,en,1.0
+442,442,CARDINAL,,,en,1.0
+Delhi Weather Forecast,Delhi Weather Forecast,WORK_OF_ART,,,en,1.0
++3214,+3214,NORP,,,en,1.0
+170,170,CARDINAL,,,en,1.0
+39,39,CARDINAL,,,en,1.0
+270,270,CARDINAL,,,en,1.0
+342,342,CARDINAL,,,en,1.0
+second week,second week,DATE,,,en,1.0
 "New Line of High-Performance Ski & Snowboard Goggles Built for Clarity, Comfort","New Line of High-Performance Ski & Snowboard Goggles Built for Clarity, Comfort",EVENT,,,en,1.0
 Nov. 11,Nov. 11,DATE,,,en,1.0
 the Helio Outdoors,the Helio Outdoors,PRODUCT,,,en,1.0
 Sistima_Dev,Sistima_Dev,CARDINAL,,,en,1.0
 Night,Night,TIME,,,en,1.0
 "11,000","11,000",CARDINAL,,,en,1.0
-"85,000","85,000",CARDINAL,,,en,1.0
 Cathulith,Cathulith,NORP,,,en,1.0
 about $11 billion,about $11 billion,MONEY,,,en,1.0
 six-week,six-week,DATE,,,en,1.0
@@ -703,141 +664,104 @@ Savannah Beige,Savannah Beige,FAC,,,en,1.0
 Flooding in Cork,Flooding in Cork,WORK_OF_ART,,,en,1.0
 Land Rover Range Rover Sport Supercharged Dynamic,Land Rover Range Rover Sport Supercharged Dynamic,EVENT,,,en,1.0
 Venetian,Venetian,NORP,,,en,1.0
-21″,21″,CARDINAL,,,en,1.0
-afternoon,afternoon,TIME,,,en,1.0
-Fog Warning,Fog Warning,PRODUCT,,,en,1.0
-Mystic Blue Metallic,Mystic Blue Metallic,WORK_OF_ART,,,en,1.0
+Black Sapph,Black Sapph,EVENT,,,en,1.0
+fall 2025,fall 2025,DATE,,,en,1.0
+Winter Hiking Gear List,Winter Hiking Gear List,WORK_OF_ART,,,en,1.0
+Ukrainians,Ukrainians,NORP,,,en,1.0
++4134 chars,+4134 chars,WORK_OF_ART,,,en,1.0
+well over a year,well over a year,DATE,,,en,1.0
+298 feet,298 feet,QUANTITY,,,en,1.0
+"1,000 m","1,000 m",QUANTITY,,,en,1.0
+Cultists,Cultists,NORP,,,en,1.0
+Checklist to Maximize Energy Efficiency,Checklist to Maximize Energy Efficiency,LAW,,,en,1.0
+Fifty years ago today,Fifty years ago today,DATE,,,en,1.0
+the 1990s,the 1990s,DATE,,,en,1.0
+Millions,Millions,CARDINAL,,,en,1.0
+at least one,at least one,CARDINAL,,,en,1.0
+Thousands,Thousands,CARDINAL,,,en,1.0
+most of the afternoon,most of the afternoon,TIME,,,en,1.0
+2pm,2pm,TIME,,,en,1.0
+$11 billion,$11 billion,MONEY,,,en,1.0
+330 feet,330 feet,QUANTITY,,,en,1.0
+1.25 million,1.25 million,CARDINAL,,,en,1.0
+"2,000","2,000",CARDINAL,,,en,1.0
+10x30,10x30,CARDINAL,,,en,1.0
+WP,WP,PRODUCT,,,en,1.0
+10x30 WP,10x30 WP,MONEY,,,en,1.0
+10x,10x,CARDINAL,,,en,1.0
+1.2 inches,1.2 inches,QUANTITY,,,en,1.0
+30 mm,30 mm,QUANTITY,,,en,1.0
+11pm,11pm,TIME,,,en,1.0
+25 SGM M2,25 SGM M2,PERCENT,,,en,1.0
+Gateway Arch,Gateway Arch,FAC,,,en,1.0
+November 27,November 27,DATE,,,en,1.0
+Birsa Munda Airport,Birsa Munda Airport,FAC,,,en,1.0
+more than 100,more than 100,CARDINAL,,,en,1.0
+110th,110th,ORDINAL,,,en,1.0
+Dutch,Dutch,NORP,,,en,1.0
+Lelystad airport,Lelystad airport,FAC,,,en,1.0
+240,240,CARDINAL,,,en,1.0
+Consent Framework,Consent Framework,WORK_OF_ART,,,en,1.0
+Convertible,Convertible,PRODUCT,,,en,1.0
+December 1,December 1,DATE,,,en,1.0
+Thanksgiving week,Thanksgiving week,DATE,,,en,1.0
+early hours,early hours,TIME,,,en,1.0
+Manipur and Odisha,Manipur and Odisha,FAC,,,en,1.0
+More than 8 inc,More than 8 inc,PERCENT,,,en,1.0
++2418,+2418,NORP,,,en,1.0
+countrys,countrys,NORP,,,en,1.0
+38k-Mile,38k-Mile,QUANTITY,,,en,1.0
+HRE,HRE,PRODUCT,,,en,1.0
+10 Years,10 Years,DATE,,,en,1.0
+"March 22, 1962","March 22, 1962",DATE,,,en,1.0
+2023</li><li,2023</li><li,CARDINAL,,,en,1.0
+Indiana Dune,Indiana Dune,FAC,,,en,1.0
+11.4,11.4,CARDINAL,,,en,1.0
+Bahama Beige,Bahama Beige,PRODUCT,,,en,1.0
+last night,last night,TIME,,,en,1.0
+Euro 2016,Euro 2016,EVENT,,,en,1.0
+96th,96th,ORDINAL,,,en,1.0
+indic,indic,WORK_OF_ART,,,en,1.0
+One day,One day,DATE,,,en,1.0
+… This 2005,… This 2005,DATE,,,en,1.0
+372,372,CARDINAL,,,en,1.0
+28.2°,28.2°,QUANTITY,,,en,1.0
+between 2013,between 2013,DATE,,,en,1.0
+7:05AM,7:05AM,CARDINAL,,,en,1.0
+Irish,Irish,NORP,,,en,1.0
+5am to 10am tomorrow morning,5am to 10am tomorrow morning,TIME,,,en,1.0
+360,360,CARDINAL,,,en,1.0
+"November 21, 2025","November 21, 2025",DATE,,,en,1.0
+370,370,CARDINAL,,,en,1.0
+391,391,CARDINAL,,,en,1.0
+the day before,the day before,DATE,,,en,1.0
+"November 8, 1994","November 8, 1994",DATE,,,en,1.0
+Mondial,Mondial,PRODUCT,,,en,1.0
+1909-2002,1909-2002,DATE,,,en,1.0
+She Stopped Being Racist,She Stopped Being Racist,WORK_OF_ART,,,en,1.0
+35k-Mile,35k-Mile,QUANTITY,,,en,1.0
+SpeedShift,SpeedShift,PRODUCT,,,en,1.0
+This 2005,This 2005,EVENT,,,en,1.0
+xDrive Sports Wagon,xDrive Sports Wagon,PRODUCT,,,en,1.0
+14,14,CARDINAL,,,en,1.0
+19k-Mile,19k-Mile,QUANTITY,,,en,1.0
+3 Coupe,3 Coupe,PRODUCT,,,en,1.0
+This 2015,This 2015,DATE,,,en,1.0
 30,30,CARDINAL,,,en,1.0
+"more than $1,000","more than $1,000",MONEY,,,en,1.0
 coming next week,coming next week,DATE,,,en,1.0
 This 2007,This 2007,DATE,,,en,1.0
 Ref,Ref,LAW,,,en,1.0
 +2328 chars,+2328 chars,WORK_OF_ART,,,en,1.0
 31k-Mile,31k-Mile,QUANTITY,,,en,1.0
 Convertible at No Reserve,Convertible at No Reserve,PRODUCT,,,en,1.0
+Mystic Blue Metallic,Mystic Blue Metallic,WORK_OF_ART,,,en,1.0
 the holiday all year,the holiday all year,DATE,,,en,1.0
-This 2015,This 2015,DATE,,,en,1.0
-Land Cruiser UZJ100,Land Cruiser UZJ100,PRODUCT,,,en,1.0
-Land Cruiser,Land Cruiser,PRODUCT,,,en,1.0
-+7526 chars,+7526 chars,WORK_OF_ART,,,en,1.0
-9-3 Arc,9-3 Arc,PRODUCT,,,en,1.0
-One-of-a-Kind,One-of-a-Kind,DATE,,,en,1.0
-about 3 miles,about 3 miles,QUANTITY,,,en,1.0
-50 feet,50 feet,QUANTITY,,,en,1.0
-She Stopped Being Racist,She Stopped Being Racist,WORK_OF_ART,,,en,1.0
-3 Coupe,3 Coupe,PRODUCT,,,en,1.0
-335i Convertible Sport,335i Convertible Sport,PRODUCT,,,en,1.0
-40 years,40 years,DATE,,,en,1.0
-another punishing week,another punishing week,DATE,,,en,1.0
-8.2%,8.2%,PERCENT,,,en,1.0
-L1,L1,CARDINAL,,,en,1.0
-16,16,CARDINAL,,,en,1.0
-Xbox Game Pass,Xbox Game Pass,EVENT,,,en,1.0
-Yesterday,Yesterday,DATE,,,en,1.0
-Knock Airport,Knock Airport,FAC,,,en,1.0
-"more than $1,000","more than $1,000",MONEY,,,en,1.0
-19k-Mile,19k-Mile,QUANTITY,,,en,1.0
-2.0,2.0,CARDINAL,,,en,1.0
 328i Convertible at No Reserve,328i Convertible at No Reserve,PRODUCT,,,en,1.0
-35k-Mile,35k-Mile,QUANTITY,,,en,1.0
-SpeedShift,SpeedShift,PRODUCT,,,en,1.0
-This 2005,This 2005,EVENT,,,en,1.0
-xDrive Sports Wagon,xDrive Sports Wagon,PRODUCT,,,en,1.0
-14,14,CARDINAL,,,en,1.0
-a morning,a morning,TIME,,,en,1.0
-Black Dako,Black Dako,FAC,,,en,1.0
-Rubio Hijacked Trump’s Foreign Policy,Rubio Hijacked Trump’s Foreign Policy,WORK_OF_ART,,,en,1.0
-GX470,GX470,PRODUCT,,,en,1.0
-X1 sDrive28i,X1 sDrive28i,PRODUCT,,,en,1.0
-X1 sDrive28i M Sport,X1 sDrive28i M Sport,PRODUCT,,,en,1.0
-These days,These days,DATE,,,en,1.0
-Thunderbird,Thunderbird,PRODUCT,,,en,1.0
-This 2002,This 2002,DATE,,,en,1.0
-3.9-liter,3.9-liter,CARDINAL,,,en,1.0
-Sleep,Sleep,WORK_OF_ART,,,en,1.0
-September,September,DATE,,,en,1.0
-28 October,28 October,DATE,,,en,1.0
-the William McChesney M…,the William McChesney M…,FAC,,,en,1.0
-nine minutes,nine minutes,TIME,,,en,1.0
-1986 Ford Mustang GT 5.0 Convertible 5-Speed,1986 Ford Mustang GT 5.0 Convertible 5-Speed,TIME,,,en,1.0
-Mustang GT,Mustang GT,PRODUCT,,,en,1.0
-Season 3,Season 3,DATE,,,en,1.0
-Season 2,Season 2,DATE,,,en,1.0
-29k-Mile,29k-Mile,QUANTITY,,,en,1.0
-Helicopter,Helicopter,FAC,,,en,1.0
-Battlefield 6,Battlefield 6,WORK_OF_ART,,,en,1.0
-71k miles,71k miles,QUANTITY,,,en,1.0
-+1702,+1702,NORP,,,en,1.0
-Albali,Albali,PRODUCT,,,en,1.0
-season,season,DATE,,,en,1.0
-Republic,Republic,WORK_OF_ART,,,en,1.0
-Every year,Every year,DATE,,,en,1.0
-the start of fall,the start of fall,DATE,,,en,1.0
-43k,43k,CARDINAL,,,en,1.0
-Danish,Danish,NORP,,,en,1.0
-This 1957,This 1957,DATE,,,en,1.0
-Season 1,Season 1,DATE,,,en,1.0
-the Winter Marathon,the Winter Marathon,EVENT,,,en,1.0
-+3480,+3480,NORP,,,en,1.0
-Corvette Convertible Collector Edition,Corvette Convertible Collector Edition,PRODUCT,,,en,1.0
-21k-Mile,21k-Mile,QUANTITY,,,en,1.0
-V8 l,V8 l,PRODUCT,,,en,1.0
-1.1.1.0,1.1.1.0,CARDINAL,,,en,1.0
-120,120,CARDINAL,,,en,1.0
-Slide,Slide,PRODUCT,,,en,1.0
-+17836 chars,+17836 chars,WORK_OF_ART,,,en,1.0
-"rav4
-","rav4
-",PRODUCT,,,en,1.0
-15 years,15 years,DATE,,,en,1.0
-8 hours',8 hours',TIME,,,en,1.0
-more than eight hours,more than eight hours,TIME,,,en,1.0
-+5912,+5912,NORP,,,en,1.0
-Brain Fog,Brain Fog,WORK_OF_ART,,,en,1.0
-"60,636","60,636",CARDINAL,,,en,1.0
-Worlds,Worlds,PRODUCT,,,en,1.0
-the International Date Line,the International Date Line,EVENT,,,en,1.0
-Atlas Diesel,Atlas Diesel,PRODUCT,,,en,1.0
-about the second half,about the second half,DATE,,,en,1.0
-Sport Coupe,Sport Coupe,PRODUCT,,,en,1.0
-+1946 chars,+1946 chars,WORK_OF_ART,,,en,1.0
-Oct. 21,Oct. 21,DATE,,,en,1.0
-Stinson EVO OG,Stinson EVO OG,PRODUCT,,,en,1.0
-This 2010 Mini Cooper S,This 2010 Mini Cooper S,EVENT,,,en,1.0
-Bose,Bose,PRODUCT,,,en,1.0
-On,On,WORK_OF_ART,,,en,1.0
-FY26,FY26,PRODUCT,,,en,1.0
-half,half,CARDINAL,,,en,1.0
+40 years,40 years,DATE,,,en,1.0
+Land Cruiser,Land Cruiser,PRODUCT,,,en,1.0
 | toyota,| toyota,PRODUCT,,,en,1.0
-Ollama-Compatible Runtime,Ollama-Compatible Runtime,FAC,,,en,1.0
-countless hours,countless hours,TIME,,,en,1.0
-five sweet days,five sweet days,DATE,,,en,1.0
-"6,653","6,653",CARDINAL,,,en,1.0
-Year-End,Year-End,DATE,,,en,1.0
-'Foggy Outlook' Suggests Caution,'Foggy Outlook' Suggests Caution,WORK_OF_ART,,,en,1.0
-minutes,minutes,TIME,,,en,1.0
-+1323 chars,+1323 chars,WORK_OF_ART,,,en,1.0
-Apple Silicon,Apple Silicon,PRODUCT,,,en,1.0
-the September quarter,the September quarter,DATE,,,en,1.0
-+16747,+16747,NORP,,,en,1.0
-80°,80°,QUANTITY,,,en,1.0
-This Year,This Year,DATE,,,en,1.0
-Five Nights,Five Nights,DATE,,,en,1.0
-year,year,DATE,,,en,1.0
-the start of the holiday season,the start of the holiday season,DATE,,,en,1.0
-this fiscal year,this fiscal year,DATE,,,en,1.0
-some seven hours,some seven hours,TIME,,,en,1.0
-27k,27k,CARDINAL,,,en,1.0
-SportPlus,SportPlus,PRODUCT,,,en,1.0
-five years,five years,DATE,,,en,1.0
-47k,47k,CARDINAL,,,en,1.0
-Escalade,Escalade,PRODUCT,,,en,1.0
-Premium Luxury,Premium Luxury,PRODUCT,,,en,1.0
-This 2017 Cadillac,This 2017 Cadillac,EVENT,,,en,1.0
-9k-Mile 1985,9k-Mile 1985,PRODUCT,,,en,1.0
-Corvette Coupe Z51,Corvette Coupe Z51,PRODUCT,,,en,1.0
-Green’ Firecrackers (,Green’ Firecrackers (,WORK_OF_ART,,,en,1.0
 Indias,Indias,NORP,0.24805194805194805,0.5458874458874459,en,1.0
-Mini Cooper S JCW Convertible,Mini Cooper S JCW Convertible,EVENT,,,en,1.0
 Diwali,Diwali,NORP,,,en,1.0
 the nights,the nights,DATE,,,en,1.0
 12 years,12 years,DATE,,,en,1.0
@@ -845,89 +769,155 @@ Macworld,Macworld,PRODUCT,,,en,1.0
 +52,+52,NORP,,,en,1.0
 RAV4,RAV4,PRODUCT,,,en,1.0
 | suvs,| suvs,DATE,,,en,1.0
-Oak,Oak,NORP,,,en,1.0
-Tundra Limited,Tundra Limited,PRODUCT,,,en,1.0
-Tundra Limited Access Cab,Tundra Limited Access Cab,PRODUCT,,,en,1.0
-1000 Favorite Movies,1000 Favorite Movies,WORK_OF_ART,,,en,1.0
-Mini Cooper S,Mini Cooper S,EVENT,,,en,1.0
-240D,240D,PRODUCT,,,en,1.0
-a week,a week,DATE,,,en,1.0
+"rav4
+","rav4
+",PRODUCT,,,en,1.0
+Knock Airport,Knock Airport,FAC,,,en,1.0
++17836 chars,+17836 chars,WORK_OF_ART,,,en,1.0
+Slide,Slide,PRODUCT,,,en,1.0
+another punishing week,another punishing week,DATE,,,en,1.0
+8.2%,8.2%,PERCENT,,,en,1.0
+L1,L1,CARDINAL,,,en,1.0
+16,16,CARDINAL,,,en,1.0
+Xbox Game Pass,Xbox Game Pass,EVENT,,,en,1.0
+Yesterday,Yesterday,DATE,,,en,1.0
+Land Cruiser UZJ100,Land Cruiser UZJ100,PRODUCT,,,en,1.0
++7526 chars,+7526 chars,WORK_OF_ART,,,en,1.0
+Green’ Firecrackers (,Green’ Firecrackers (,WORK_OF_ART,,,en,1.0
+GX470,GX470,PRODUCT,,,en,1.0
+Battlefield 6,Battlefield 6,WORK_OF_ART,,,en,1.0
+28 October,28 October,DATE,,,en,1.0
+X1 sDrive28i,X1 sDrive28i,PRODUCT,,,en,1.0
+X1 sDrive28i M Sport,X1 sDrive28i M Sport,PRODUCT,,,en,1.0
+Thunderbird,Thunderbird,PRODUCT,,,en,1.0
+This 2002,This 2002,DATE,,,en,1.0
+3.9-liter,3.9-liter,CARDINAL,,,en,1.0
+Sleep,Sleep,WORK_OF_ART,,,en,1.0
+September,September,DATE,,,en,1.0
+120,120,CARDINAL,,,en,1.0
+the William McChesney M…,the William McChesney M…,FAC,,,en,1.0
+1986 Ford Mustang GT 5.0 Convertible 5-Speed,1986 Ford Mustang GT 5.0 Convertible 5-Speed,TIME,,,en,1.0
+Mustang GT,Mustang GT,PRODUCT,,,en,1.0
+Season 3,Season 3,DATE,,,en,1.0
+Season 2,Season 2,DATE,,,en,1.0
+29k-Mile,29k-Mile,QUANTITY,,,en,1.0
+330Ci Convertible,330Ci Convertible,PRODUCT,,,en,1.0
+Rubio Hijacked Trump’s Foreign Policy,Rubio Hijacked Trump’s Foreign Policy,WORK_OF_ART,,,en,1.0
+Season 1,Season 1,DATE,,,en,1.0
+1.1.1.0,1.1.1.0,CARDINAL,,,en,1.0
+One-of-a-Kind,One-of-a-Kind,DATE,,,en,1.0
+Republic,Republic,WORK_OF_ART,,,en,1.0
+about 3 miles,about 3 miles,QUANTITY,,,en,1.0
+50 feet,50 feet,QUANTITY,,,en,1.0
+a morning,a morning,TIME,,,en,1.0
+335i Convertible Sport,335i Convertible Sport,PRODUCT,,,en,1.0
+Black Dako,Black Dako,FAC,,,en,1.0
+71k miles,71k miles,QUANTITY,,,en,1.0
+Albali,Albali,PRODUCT,,,en,1.0
+season,season,DATE,,,en,1.0
+Every year,Every year,DATE,,,en,1.0
+V8 l,V8 l,PRODUCT,,,en,1.0
+the start of fall,the start of fall,DATE,,,en,1.0
+43k,43k,CARDINAL,,,en,1.0
+Danish,Danish,NORP,,,en,1.0
++1702,+1702,NORP,,,en,1.0
+This 1957,This 1957,DATE,,,en,1.0
+the Winter Marathon,the Winter Marathon,EVENT,,,en,1.0
++3480,+3480,NORP,,,en,1.0
+Corvette Convertible Collector Edition,Corvette Convertible Collector Edition,PRODUCT,,,en,1.0
+five years,five years,DATE,,,en,1.0
+Corvette Coupe Z51,Corvette Coupe Z51,PRODUCT,,,en,1.0
+Oct. 29,Oct. 29,DATE,,,en,1.0
+"1,000","1,000",MONEY,,,en,1.0
 21″ Cayenne,21″ Cayenne,PRODUCT,,,en,1.0
+SportPlus,SportPlus,PRODUCT,,,en,1.0
+Bose,Bose,PRODUCT,,,en,1.0
+This 2010 Mini Cooper S,This 2010 Mini Cooper S,EVENT,,,en,1.0
+Atlas Diesel,Atlas Diesel,PRODUCT,,,en,1.0
+"60,636","60,636",CARDINAL,,,en,1.0
+80°,80°,QUANTITY,,,en,1.0
+afternoon,afternoon,TIME,,,en,1.0
+countless hours,countless hours,TIME,,,en,1.0
+2.0,2.0,CARDINAL,,,en,1.0
+five sweet days,five sweet days,DATE,,,en,1.0
+"6,653","6,653",CARDINAL,,,en,1.0
+Year-End,Year-End,DATE,,,en,1.0
+'Foggy Outlook' Suggests Caution,'Foggy Outlook' Suggests Caution,WORK_OF_ART,,,en,1.0
++1323 chars,+1323 chars,WORK_OF_ART,,,en,1.0
+Ollama-Compatible Runtime,Ollama-Compatible Runtime,FAC,,,en,1.0
+Apple Silicon,Apple Silicon,PRODUCT,,,en,1.0
++16747,+16747,NORP,,,en,1.0
+Cayenne SportPlus,Cayenne SportPlus,PRODUCT,,,en,1.0
+9-3 Arc,9-3 Arc,PRODUCT,,,en,1.0
+Five Nights,Five Nights,DATE,,,en,1.0
+century-old,century-old,DATE,,,en,1.0
+Pak,Pak,NORP,,,en,1.0
+1.6-l,1.6-l,PRODUCT,,,en,1.0
+This 2006 Mini Cooper S,This 2006 Mini Cooper S,EVENT,,,en,1.0
+30 years,30 years,DATE,,,en,1.0
+two decades,two decades,DATE,,,en,1.0
+LTZ 4x4,LTZ 4x4,PRODUCT,,,en,1.0
+This weekend,This weekend,DATE,,,en,1.0
+… This weekend,… This weekend,DATE,,,en,1.0
+seasonal,seasonal,DATE,,,en,1.0
+21k-Mile,21k-Mile,QUANTITY,,,en,1.0
+Morning,Morning,TIME,,,en,1.0
+golden hour,golden hour,TIME,,,en,1.0
+Barracuda Gran Coupe 383,Barracuda Gran Coupe 383,PRODUCT,,,en,1.0
+This 1971,This 1971,EVENT,,,en,1.0
+five-date,five-date,DATE,,,en,1.0
+nine minutes,nine minutes,TIME,,,en,1.0
+These days,These days,DATE,,,en,1.0
+Helicopter,Helicopter,FAC,,,en,1.0
+This Year,This Year,DATE,,,en,1.0
+the start of the holiday season,the start of the holiday season,DATE,,,en,1.0
+9k-Mile 1985,9k-Mile 1985,PRODUCT,,,en,1.0
+hundreds of thousands,hundreds of thousands,CARDINAL,,,en,1.0
 October 10,October 10,DATE,,,en,1.0
 +6323 chars,+6323 chars,WORK_OF_ART,,,en,1.0
-Cayenne SportPlus,Cayenne SportPlus,PRODUCT,,,en,1.0
 +16495,+16495,NORP,,,en,1.0
 XK8,XK8,PRODUCT,,,en,1.0
 Jaguar XK8,Jaguar XK8,PRODUCT,,,en,1.0
 20 October 2025,20 October 2025,DATE,,,en,1.0
 +31306,+31306,NORP,,,en,1.0
 the last few months,the last few months,DATE,,,en,1.0
-hundreds of thousands,hundreds of thousands,CARDINAL,,,en,1.0
 13 year olds,13 year olds,DATE,,,en,1.0
-330Ci Convertible,330Ci Convertible,PRODUCT,,,en,1.0
+240D,240D,PRODUCT,,,en,1.0
+1000 Favorite Movies,1000 Favorite Movies,WORK_OF_ART,,,en,1.0
+Tundra Limited Access Cab,Tundra Limited Access Cab,PRODUCT,,,en,1.0
+Tundra Limited,Tundra Limited,PRODUCT,,,en,1.0
+Oak,Oak,NORP,,,en,1.0
+47k,47k,CARDINAL,,,en,1.0
+Escalade,Escalade,PRODUCT,,,en,1.0
+Premium Luxury,Premium Luxury,PRODUCT,,,en,1.0
+This 2017 Cadillac,This 2017 Cadillac,EVENT,,,en,1.0
+a week,a week,DATE,,,en,1.0
+Mini Cooper S,Mini Cooper S,EVENT,,,en,1.0
+this fiscal year,this fiscal year,DATE,,,en,1.0
+Worlds,Worlds,PRODUCT,,,en,1.0
+the September quarter,the September quarter,DATE,,,en,1.0
+half,half,CARDINAL,,,en,1.0
+about the second half,about the second half,DATE,,,en,1.0
+FY26,FY26,PRODUCT,,,en,1.0
+8 hours',8 hours',TIME,,,en,1.0
+more than eight hours,more than eight hours,TIME,,,en,1.0
++5912,+5912,NORP,,,en,1.0
+Brain Fog,Brain Fog,WORK_OF_ART,,,en,1.0
+the International Date Line,the International Date Line,EVENT,,,en,1.0
+Mini Cooper S JCW Convertible,Mini Cooper S JCW Convertible,EVENT,,,en,1.0
+15 years,15 years,DATE,,,en,1.0
+Sport Coupe,Sport Coupe,PRODUCT,,,en,1.0
++1946 chars,+1946 chars,WORK_OF_ART,,,en,1.0
+Oct. 21,Oct. 21,DATE,,,en,1.0
+Stinson EVO OG,Stinson EVO OG,PRODUCT,,,en,1.0
+On,On,WORK_OF_ART,,,en,1.0
+some seven hours,some seven hours,TIME,,,en,1.0
+27k,27k,CARDINAL,,,en,1.0
 2025 Third Quarter,2025 Third Quarter,DATE,,,en,1.0
-1894,1894,DATE,,,en,1.0
-1967,1967,DATE,,,en,1.0
-33k-Mile,33k-Mile,QUANTITY,,,en,1.0
-50k,50k,CARDINAL,,,en,1.0
-July 2017,July 2017,DATE,,,en,1.0
-50k miles,50k miles,QUANTITY,,,en,1.0
-11k,11k,CARDINAL,,,en,1.0
-BMW,BMW,PRODUCT,,,en,1.0
-911S Coupe,911S Coupe,PRODUCT,,,en,1.0
-This 1967,This 1967,EVENT,,,en,1.0
-"over $126,000","over $126,000",MONEY,,,en,1.0
-golden hour,golden hour,TIME,,,en,1.0
-Forest River Georgetown,Forest River Georgetown,FAC,,,en,1.0
-Nissan Skyline GT-R.,Nissan Skyline GT-R.,FAC,,,en,1.0
-"101,700","101,700",MONEY,,,en,1.0
-150,150,CARDINAL,,,en,1.0
-Malay,Malay,LANGUAGE,,,en,1.0
-some previous months,some previous months,DATE,,,en,1.0
-Oct. 6,Oct. 6,DATE,,,en,1.0
-"below $100,000","below $100,000",MONEY,,,en,1.0
-Lightning Lane,Lightning Lane,FAC,,,en,1.0
-"1,348","1,348",CARDINAL,,,en,1.0
-48k,48k,CARDINAL,,,en,1.0
-This 2011,This 2011,DATE,,,en,1.0
-six-s,six-s,QUANTITY,,,en,1.0
-This 1990,This 1990,DATE,,,en,1.0
-Mondial,Mondial,PRODUCT,,,en,1.0
-xDrive Coupe,xDrive Coupe,PRODUCT,,,en,1.0
-this summer,this summer,DATE,,,en,1.0
-Databroker Files,Databroker Files,WORK_OF_ART,,,en,1.0
-20%,20%,PERCENT,,,en,1.0
-278 million,278 million,CARDINAL,,,en,1.0
-That Days,That Days,DATE,,,en,1.0
-every day,every day,DATE,,,en,1.0
-Earlier this year,Earlier this year,DATE,,,en,1.0
-about m,about m,QUANTITY,,,en,1.0
-Democrats,Democrats,NORP,,,en,1.0
-"1,000","1,000",MONEY,,,en,1.0
-over $1.21 trillion,over $1.21 trillion,MONEY,,,en,1.0
-Starts With A Bang,Starts With A Bang,WORK_OF_ART,,,en,1.0
-Oct. 29,Oct. 29,DATE,,,en,1.0
-M6 Convertible,M6 Convertible,PRODUCT,,,en,1.0
-as many as 50 million,as many as 50 million,CARDINAL,,,en,1.0
-six years,six years,DATE,,,en,1.0
-0.8%,0.8%,PERCENT,,,en,1.0
-0.9%,0.9%,PERCENT,,,en,1.0
-1.6%,1.6%,PERCENT,,,en,1.0
-"153,074","153,074",CARDINAL,,,en,1.0
-4%,4%,PERCENT,,,en,1.0
-Profi SPG,Profi SPG,PRODUCT,,,en,1.0
-Car,Car,EVENT,,,en,1.0
-This 2021,This 2021,CARDINAL,,,en,1.0
-19,19,CARDINAL,,,en,1.0
-Emira V6,Emira V6,PRODUCT,,,en,1.0
-Obsessed Garage YouTube,Obsessed Garage YouTube,PRODUCT,,,en,1.0
-19th-century,19th-century,DATE,,,en,1.0
-American,American,NORP,,,en,1.0
-nearly 50 years,nearly 50 years,DATE,,,en,1.0
-BMW M5,BMW M5,PRODUCT,,,en,1.0
-July 2003,July 2003,DATE,,,en,1.0
-this 2011,this 2011,DATE,,,en,1.0
+Kirby,Kirby,WORK_OF_ART,,,en,1.0
+The weekend,The weekend,DATE,,,en,1.0
 Corvette Coupe,Corvette Coupe,PRODUCT,,,en,1.0
+this 2011,this 2011,DATE,,,en,1.0
 Sport Package,Sport Package,PRODUCT,,,en,1.0
 Sport Packa,Sport Packa,PRODUCT,,,en,1.0
 Prairie Tan,Prairie Tan,PRODUCT,,,en,1.0
@@ -936,7 +926,7 @@ Mustang Boss,Mustang Boss,PRODUCT,,,en,1.0
 5.0-liter,5.0-liter,CARDINAL,,,en,1.0
 Ebony,Ebony,NORP,,,en,1.0
 294-Mile 2008,294-Mile 2008,DATE,,,en,1.0
-a few hours,a few hours,TIME,,,en,1.0
+Lightning Lane,Lightning Lane,FAC,,,en,1.0
 McLaren,McLaren,PRODUCT,,,en,1.0
 Silver Arrow,Silver Arrow,PRODUCT,,,en,1.0
 Libra,Libra,PRODUCT,,,en,1.0
@@ -944,50 +934,153 @@ The True Story of the Military’s Secret 1950 San Francisco Biological Weapons 
 September day,September day,DATE,,,en,1.0
 "Dec. 15, 2023","Dec. 15, 2023",DATE,,,en,1.0
 "the afternoon of Sunday, August 11, 2024","the afternoon of Sunday, August 11, 2024",TIME,,,en,1.0
-… Autumns,… Autumns,DATE,,,en,1.0
-Fleeting Beauty to Boost Your Photography Sales With Lumaprints,Fleeting Beauty to Boost Your Photography Sales With Lumaprints,WORK_OF_ART,,,en,1.0
-the TNGA-F,the TNGA-F,FAC,,,en,1.0
+a few hours,a few hours,TIME,,,en,1.0
+Starts With A Bang,Starts With A Bang,WORK_OF_ART,,,en,1.0
+over $1.21 trillion,over $1.21 trillion,MONEY,,,en,1.0
+Car,Car,EVENT,,,en,1.0
+11k,11k,CARDINAL,,,en,1.0
+20%,20%,PERCENT,,,en,1.0
+"below $100,000","below $100,000",MONEY,,,en,1.0
+"over $126,000","over $126,000",MONEY,,,en,1.0
+Oct. 6,Oct. 6,DATE,,,en,1.0
+33k-Mile,33k-Mile,QUANTITY,,,en,1.0
+50k,50k,CARDINAL,,,en,1.0
+July 2017,July 2017,DATE,,,en,1.0
+50k miles,50k miles,QUANTITY,,,en,1.0
+BMW,BMW,PRODUCT,,,en,1.0
+some previous months,some previous months,DATE,,,en,1.0
+911S Coupe,911S Coupe,PRODUCT,,,en,1.0
+1967,1967,DATE,,,en,1.0
+This 1967,This 1967,EVENT,,,en,1.0
+Forest River Georgetown,Forest River Georgetown,FAC,,,en,1.0
+Nissan Skyline GT-R.,Nissan Skyline GT-R.,FAC,,,en,1.0
+"101,700","101,700",MONEY,,,en,1.0
+150,150,CARDINAL,,,en,1.0
+Malay,Malay,LANGUAGE,,,en,1.0
+July 2003,July 2003,DATE,,,en,1.0
+BMW M5,BMW M5,PRODUCT,,,en,1.0
+about m,about m,QUANTITY,,,en,1.0
+"35,726","35,726",CARDINAL,,,en,1.0
+over one thousand,over one thousand,CARDINAL,,,en,1.0
+6 a.m.,6 a.m.,TIME,,,en,1.0
+May 7,May 7,DATE,,,en,1.0
+every minute,every minute,TIME,,,en,1.0
+Japanese,Japanese,NORP,,,en,1.0
+"November 7, 2005","November 7, 2005",DATE,,,en,1.0
+"7, 2005","7, 2005",DATE,,,en,1.0
+85,85,DATE,,,en,1.0
+85mm,85mm,QUANTITY,,,en,1.0
+Germans,Germans,NORP,,,en,1.0
+Americana,Americana,NORP,,,en,1.0
+Twin Peaks,Twin Peaks,WORK_OF_ART,,,en,1.0
+Smokies,Smokies,PRODUCT,,,en,1.0
+the Great Smoky Mountains,the Great Smoky Mountains,EVENT,,,en,1.0
+early October,early October,DATE,,,en,1.0
+the Blue Ridge Parkway,the Blue Ridge Parkway,FAC,,,en,1.0
+One year,One year,DATE,,,en,1.0
+Bonfire Night,Bonfire Night,FAC,,,en,1.0
+World War I,World War I,EVENT,,,en,1.0
+British,British,NORP,,,en,1.0
+as many as 50 million,as many as 50 million,CARDINAL,,,en,1.0
+This 2021,This 2021,CARDINAL,,,en,1.0
+six years,six years,DATE,,,en,1.0
+0.8%,0.8%,PERCENT,,,en,1.0
+0.9%,0.9%,PERCENT,,,en,1.0
+1.6%,1.6%,PERCENT,,,en,1.0
+"153,074","153,074",CARDINAL,,,en,1.0
+4%,4%,PERCENT,,,en,1.0
+M6 Convertible,M6 Convertible,PRODUCT,,,en,1.0
+Profi SPG,Profi SPG,PRODUCT,,,en,1.0
+19,19,CARDINAL,,,en,1.0
++2805 chars],+2805 chars],WORK_OF_ART,,,en,1.0
+Emira V6,Emira V6,PRODUCT,,,en,1.0
+Obsessed Garage YouTube,Obsessed Garage YouTube,PRODUCT,,,en,1.0
+19th-century,19th-century,DATE,,,en,1.0
+American,American,NORP,,,en,1.0
+nearly 50 years,nearly 50 years,DATE,,,en,1.0
+1894,1894,DATE,,,en,1.0
+Fog Warning,Fog Warning,PRODUCT,,,en,1.0
+21″,21″,CARDINAL,,,en,1.0
+Democrats,Democrats,NORP,,,en,1.0
+Earlier this year,Earlier this year,DATE,,,en,1.0
+the third quarter ended September 30,the third quarter ended September 30,DATE,,,en,1.0
+16k,16k,CARDINAL,,,en,1.0
 fourth consecutive week,fourth consecutive week,DATE,,,en,1.0
-Morning Brief,Morning Brief,WORK_OF_ART,,,en,1.0
-TransportTags,TransportTags,WORK_OF_ART,,,en,1.0
-Helmet,Helmet,PRODUCT,,,en,1.0
-+4525 chars,+4525 chars,WORK_OF_ART,,,en,1.0
-This 1971,This 1971,EVENT,,,en,1.0
-110,110,CARDINAL,,,en,1.0
-Land Rover Defender 110 HSE,Land Rover Defender 110 HSE,EVENT,,,en,1.0
 over a year,over a year,DATE,,,en,1.0
-Celestial,Celestial,WORK_OF_ART,,,en,1.0
 6.17%,6.17%,PERCENT,,,en,1.0
 the fourth consecutive week,the fourth consecutive week,DATE,,,en,1.0
 Gothic Masterpiece,Gothic Masterpiece,WORK_OF_ART,,,en,1.0
 Press Conference Shows Why He,Press Conference Shows Why He,EVENT,,,en,1.0
 Truck Driver,Truck Driver,WORK_OF_ART,,,en,1.0
 Xbox Series,Xbox Series,EVENT,,,en,1.0
-16k,16k,CARDINAL,,,en,1.0
-185,185,CARDINAL,,,en,1.0
-Revolver,Revolver,PRODUCT,,,en,1.0
-the TNGA-F truck,the TNGA-F truck,FAC,,,en,1.0
-third quarter,third quarter,DATE,,,en,1.0
-Kirby,Kirby,WORK_OF_ART,,,en,1.0
-the third quarter ended September 30,the third quarter ended September 30,DATE,,,en,1.0
+Mustang GT Hatchback,Mustang GT Hatchback,PRODUCT,,,en,1.0
++4525 chars,+4525 chars,WORK_OF_ART,,,en,1.0
+5.0,5.0,CARDINAL,,,en,1.0
+Light Regatta Blue Metallic,Light Regatta Blue Metallic,WORK_OF_ART,,,en,1.0
++2350 chars,+2350 chars,WORK_OF_ART,,,en,1.0
+week,week,DATE,,,en,1.0
+about this weeks,about this weeks,DATE,,,en,1.0
+Second Month,Second Month,DATE,,,en,1.0
+more than a year,more than a year,DATE,,,en,1.0
+three days,three days,DATE,,,en,1.0
+Land Rover Defender 110 HSE,Land Rover Defender 110 HSE,EVENT,,,en,1.0
+Helmet,Helmet,PRODUCT,,,en,1.0
+"November… Nov 01, 2025","November… Nov 01, 2025",DATE,,,en,1.0
+spring season,spring season,DATE,,,en,1.0
 $92.5 million,$92.5 million,MONEY,,,en,1.0
 $90.0 million,$90.0 million,MONEY,,,en,1.0
 Third quarter 2025,Third quarter 2025,DATE,,,en,1.0
 6%,6%,PERCENT,,,en,1.0
 >,>,CARDINAL,,,en,1.0
+third quarter,third quarter,DATE,,,en,1.0
 mid-80%,mid-80%,PERCENT,,,en,1.0
-the Palomar Observatory,the Palomar Observatory,FAC,,,en,1.0
 the quarter,the quarter,DATE,,,en,1.0
-spring season,spring season,DATE,,,en,1.0
 between 3.75% and 4%,between 3.75% and 4%,PERCENT,,,en,1.0
-five-date,five-date,DATE,,,en,1.0
+TransportTags,TransportTags,WORK_OF_ART,,,en,1.0
 Italian,Italian,NORP,,,en,1.0
 M3 Coupe,M3 Coupe,PRODUCT,,,en,1.0
 +2617,+2617,NORP,,,en,1.0
-Mustang GT Hatchback,Mustang GT Hatchback,PRODUCT,,,en,1.0
-5.0,5.0,CARDINAL,,,en,1.0
-Light Regatta Blue Metallic,Light Regatta Blue Metallic,WORK_OF_ART,,,en,1.0
-300k,300k,MONEY,,,en,1.0
+the Palomar Observatory,the Palomar Observatory,FAC,,,en,1.0
+Revolver,Revolver,PRODUCT,,,en,1.0
+Celestial,Celestial,WORK_OF_ART,,,en,1.0
+185,185,CARDINAL,,,en,1.0
+Morning Brief,Morning Brief,WORK_OF_ART,,,en,1.0
+November-December,November-December,DATE,,,en,1.0
+an Xbox Series,an Xbox Series,EVENT,,,en,1.0
+every day,every day,DATE,,,en,1.0
+48k,48k,CARDINAL,,,en,1.0
+the end of Day Nine,the end of Day Nine,DATE,,,en,1.0
+the end of day,the end of day,DATE,,,en,1.0
+two thousand years,two thousand years,DATE,,,en,1.0
+Stars Align,Stars Align,PRODUCT,,,en,1.0
+the TNGA-F truck,the TNGA-F truck,FAC,,,en,1.0
+the TNGA-F,the TNGA-F,FAC,,,en,1.0
+Fleeting Beauty to Boost Your Photography Sales With Lumaprints,Fleeting Beauty to Boost Your Photography Sales With Lumaprints,WORK_OF_ART,,,en,1.0
+… Autumns,… Autumns,DATE,,,en,1.0
+This 2011,This 2011,DATE,,,en,1.0
+November night,November night,TIME,,,en,1.0
+six-s,six-s,QUANTITY,,,en,1.0
+This 1990,This 1990,DATE,,,en,1.0
+xDrive Coupe,xDrive Coupe,PRODUCT,,,en,1.0
+this summer,this summer,DATE,,,en,1.0
+"1,348","1,348",CARDINAL,,,en,1.0
+Databroker Files,Databroker Files,WORK_OF_ART,,,en,1.0
+278 million,278 million,CARDINAL,,,en,1.0
+That Days,That Days,DATE,,,en,1.0
+50th,50th,ORDINAL,,,en,1.0
+50 years ago,50 years ago,DATE,,,en,1.0
+Silent Hill,Silent Hill,FAC,,,en,1.0
+44,44,DATE,,,en,1.0
+Hillary Airport,Hillary Airport,FAC,,,en,1.0
+TenzingHillary Airport,TenzingHillary Airport,FAC,,,en,1.0
+Scorpios,Scorpios,PRODUCT,,,en,1.0
+the 1920s,the 1920s,DATE,,,en,1.0
+CHAPTER ONE,CHAPTER ONE,LAW,,,en,1.0
+325i Convertible at No Reserve,325i Convertible at No Reserve,PRODUCT,,,en,1.0
+ten,ten,CARDINAL,,,en,1.0
+the China Burma India Theater,the China Burma India Theater,FAC,,,en,1.0
+that months,that months,DATE,,,en,1.0
+"at least $300,000","at least $300,000",MONEY,,,en,1.0
 other months,other months,DATE,,,en,1.0
 the month of October,the month of October,DATE,,,en,1.0
 the high 60s and,the high 60s and,DATE,,,en,1.0
@@ -995,32 +1088,5 @@ Halloweens,Halloweens,DATE,,,en,1.0
 "149,900","149,900",MONEY,,,en,1.0
 30 feet,30 feet,QUANTITY,,,en,1.0
 6.75-liter,6.75-liter,CARDINAL,,,en,1.0
-"at least $300,000","at least $300,000",MONEY,,,en,1.0
-+2350 chars,+2350 chars,WORK_OF_ART,,,en,1.0
-50 years ago,50 years ago,DATE,,,en,1.0
-November night,November night,TIME,,,en,1.0
-50th,50th,ORDINAL,,,en,1.0
-the end of Day Nine,the end of Day Nine,DATE,,,en,1.0
-the end of day,the end of day,DATE,,,en,1.0
-two thousand years,two thousand years,DATE,,,en,1.0
-Stars Align,Stars Align,PRODUCT,,,en,1.0
-44,44,DATE,,,en,1.0
-the China Burma India Theater,the China Burma India Theater,FAC,,,en,1.0
-ten,ten,CARDINAL,,,en,1.0
-325i Convertible at No Reserve,325i Convertible at No Reserve,PRODUCT,,,en,1.0
-week,week,DATE,,,en,1.0
-about this weeks,about this weeks,DATE,,,en,1.0
-Second Month,Second Month,DATE,,,en,1.0
-more than a year,more than a year,DATE,,,en,1.0
-three days,three days,DATE,,,en,1.0
-November-December,November-December,DATE,,,en,1.0
-"November… Nov 01, 2025","November… Nov 01, 2025",DATE,,,en,1.0
-an Xbox Series,an Xbox Series,EVENT,,,en,1.0
-Silent Hill,Silent Hill,FAC,,,en,1.0
-Hillary Airport,Hillary Airport,FAC,,,en,1.0
-TenzingHillary Airport,TenzingHillary Airport,FAC,,,en,1.0
-Barracuda Gran Coupe 383,Barracuda Gran Coupe 383,PRODUCT,,,en,1.0
-Scorpios,Scorpios,PRODUCT,,,en,1.0
-the 1920s,the 1920s,DATE,,,en,1.0
-CHAPTER ONE,CHAPTER ONE,LAW,,,en,1.0
-that months,that months,DATE,,,en,1.0
+300k,300k,MONEY,,,en,1.0
+earlier this month,earlier this month,DATE,,,en,1.0
