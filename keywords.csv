@@ -6,6 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 +fog warning system,en,Adaptation,#0000ff,#0000ff,3,0.0537933270019205
 +foggy conditions,en,Hazard,#ff0000,#ff0000,3,0.0504046780950044
 +fog accident,en,Impacts,#ffff00,#ffff00,3,0.0468584128806335
-+fog slow down,en,Mitigation,#00ff00,#00ff00,3,0.0451081033492901
-+fog climate change,en,Causes,#00ffff,#00ffff,3,0.03751397912316212
++fog slow down,en,Mitigation,#00ff00,#00ff00,3,0.04299338784689659
++fog climate change,en,Causes,#00ffff,#00ffff,3,0.0375139791231621
 +fog dewpoint,en,Causes,#00ffff,#00ffff,1,0.0041487973747143
