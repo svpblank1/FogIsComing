@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-+fog alert,en,Adaptation,#0000ff,#0000ff,3,0.0633728968671692
++fog alert,en,Adaptation,#0000ff,#0000ff,3,0.058519812337093816
 +fog weather,en,Hazard,#ff0000,#ff0000,3,0.05455511460895
 +fog flights,en,Impacts,#ffff00,#ffff00,3,0.0521290372435865
 +fog light,en,Mitigation,#00ff00,#00ff00,3,0.0509466558026397
