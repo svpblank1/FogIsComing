@@ -46,7 +46,8 @@ Sharan Sivakumar,Sharan Sivakumar,PERSON,0.26666666666666666,1.1242424242424243,
 Getty Images,Getty Images,PERSON,0.0,0.0,en,1.1
 Pat Parrott,Pat Parrott,PERSON,-0.13636363636363638,0.9393939393939392,en,1.1
 Aries Horoscope,Aries Horoscope,PERSON,0.0,0.28787878787878785,en,1.1
-Marco Odermatt,Marco Odermatt,PERSON,0.7840909090909091,1.1464646464646464,en,1.1
+Antony Shugaar’s,Antony Shugaar’s,PERSON,0.18939393939393936,0.25252525252525254,en,1.1
+Lexus GX470,Lexus GX470,PERSON,0.0,0.0,en,1.1
 Jessie Inchauspé,Jessie Inchauspé,PERSON,0.9090909090909091,0.9090909090909091,en,1.1
 Nissan Atlas,Nissan Atlas,PERSON,0.0,0.18181818181818182,en,1.1
 Mark Shapiro,Mark Shapiro,PERSON,0.0,0.18181818181818182,en,1.1
@@ -54,25 +55,25 @@ Josh Dury,Josh Dury,PERSON,0.7727272727272726,1.3636363636363635,en,1.1
 Miko microsuede,Miko microsuede,PERSON,-0.23645546372819098,0.6932966023875116,en,1.1
 Sharpe BMW,Sharpe BMW,PERSON,0.20454545454545453,0.9318181818181817,en,1.1
 Andy Muschietti,Andy Muschietti,PERSON,-0.803030303030303,1.333333333333333,en,1.1
-Antony Shugaar’s,Antony Shugaar’s,PERSON,0.18939393939393936,0.25252525252525254,en,1.1
+Marco Odermatt,Marco Odermatt,PERSON,0.7840909090909091,1.1464646464646464,en,1.1
 Kelley Vlahos,Kelley Vlahos,PERSON,-0.14141414141414144,0.5656565656565656,en,1.1
-McNally Jackson’s,McNally Jackson’s,PERSON,0.18939393939393936,0.25252525252525254,en,1.1
-Gianni Rodari,Gianni Rodari,PERSON,0.18939393939393936,0.25252525252525254,en,1.1
-Justin Wilson,Justin Wilson,PERSON,0.0,0.0,en,1.1
 Highland Autoplex,Highland Autoplex,PERSON,0.17234848484848483,0.678030303030303,en,1.1
-Lexus GX470,Lexus GX470,PERSON,0.0,0.0,en,1.1
+Justin Wilson,Justin Wilson,PERSON,0.0,0.0,en,1.1
 Daniel Herskedal,Daniel Herskedal,PERSON,0.2045454545454545,1.2272727272727273,en,1.1
-Aries Horoscope Prediction,Aries Horoscope Prediction,PERSON,0.0,0.0,en,1.0
+Gianni Rodari,Gianni Rodari,PERSON,0.18939393939393936,0.25252525252525254,en,1.1
+McNally Jackson’s,McNally Jackson’s,PERSON,0.18939393939393936,0.25252525252525254,en,1.1
+PATRICK WHITTLE,PATRICK WHITTLE,PERSON,0.04861111111111111,0.4222222222222222,en,1.0
+Zoe KleinmanTechnology,Zoe KleinmanTechnology,PERSON,0.0028409090909090884,0.35625,en,1.0
+Anand Vihar,Anand Vihar,PERSON,0.0,0.0,en,1.0
+Scott Peterson,Scott Peterson,PERSON,-0.05000000000000001,0.3055555555555555,en,1.0
+Birsa Munda,Birsa Munda,PERSON,-0.125,0.375,en,1.0
 Natalia Lebedinskaia,Natalia Lebedinskaia,PERSON,-0.05,0.35,en,1.0
 Madhya Maharashtra,Madhya Maharashtra,PERSON,-0.3,1.0,en,1.0
-Troy Parrott,Troy Parrott,PERSON,0.4287878787878788,0.40151515151515155,en,1.0
 Ram Mohan Naidu,Ram Mohan Naidu,PERSON,0.0,0.0,en,1.0
-Birsa Munda,Birsa Munda,PERSON,-0.125,0.375,en,1.0
-Scott Peterson,Scott Peterson,PERSON,-0.05000000000000001,0.3055555555555555,en,1.0
 Carl von Clausewitzs,Carl von Clausewitzs,PERSON,0.03333333333333333,0.06666666666666667,en,1.0
-Zoe KleinmanTechnology,Zoe KleinmanTechnology,PERSON,0.0028409090909090884,0.35625,en,1.0
+Aries Horoscope Prediction,Aries Horoscope Prediction,PERSON,0.0,0.0,en,1.0
+Troy Parrott,Troy Parrott,PERSON,0.4287878787878788,0.40151515151515155,en,1.0
 Wayfare Tavern,Wayfare Tavern,PERSON,-6.938893903907228e-18,0.41875,en,1.0
-PATRICK WHITTLE,PATRICK WHITTLE,PERSON,0.04861111111111111,0.4222222222222222,en,1.0
 Chair Powell,Chair Powell,PERSON,0.0,0.0,en,1.0
 Heimir Hallgrímsson,Heimir Hallgrímsson,PERSON,0.4,0.525,en,1.0
 Brain Rot,Brain Rot,PERSON,-0.05,0.4,en,1.0
@@ -87,17 +88,18 @@ Kerry Wan,Kerry Wan,PERSON,0.0,0.0,en,1.0
 Fisch Hall Of Whispers Bestiary,Fisch Hall Of Whispers Bestiary,PERSON,0.0,0.0,en,1.0
 Gregory Daco,Gregory Daco,PERSON,-0.08333333333333333,0.4166666666666667,en,1.0
 Fisch Passage,Fisch Passage,PERSON,0.0,0.0,en,1.0
-Anand Vihar,Anand Vihar,PERSON,0.0,0.0,en,1.0
+Sunil Chhetri,Sunil Chhetri,PERSON,0.43333333333333335,0.5833333333333334,en,1.0
 Game Pass,Game Pass,PERSON,0.033333333333333326,0.525,en,1.0
 Abdujalil AbdurasulovIn,Abdujalil AbdurasulovIn,PERSON,-0.07500000000000001,0.49375,en,1.0
 Snow G,Snow G,PERSON,0.2898989898989899,0.5737373737373738,en,1.0
 Avinash Singh,Avinash Singh,PERSON,-0.13,0.39,en,1.0
-Sunil Chhetri,Sunil Chhetri,PERSON,0.43333333333333335,0.5833333333333334,en,1.0
 Jaguar XK8 Convertible at No Reserve,Jaguar XK8 Convertible at No Reserve,PERSON,0.0,0.0,en,1.0
+Nitin Nabins,Nitin Nabins,PERSON,0.0,0.0,en,1.0
 Basic Ed,Basic Ed,PERSON,0.0,0.125,en,1.0
 Jammu ci,Jammu ci,PERSON,0.0,0.0,en,1.0
 Mike Salas,Mike Salas,PERSON,-0.15185185185185188,0.562962962962963,en,1.0
 Rahul Narw,Rahul Narw,PERSON,-0.13333333333333333,0.37333333333333335,en,1.0
+Jharkhand Schools,Jharkhand Schools,PERSON,-0.35,0.55,en,1.0
 Alix Earle,Alix Earle,PERSON,-0.19791666666666669,0.42291666666666666,en,1.0
 Helge Lien,Helge Lien,PERSON,0.3,0.9,en,1.0
 GRAP III,GRAP III,PERSON,-0.13,0.445,en,1.0
@@ -122,7 +124,6 @@ Adam Gray,Adam Gray,PERSON,0.18181818181818182,0.42272727272727273,en,1.0
 Tony Blain,Tony Blain,PERSON,0.0,0.0,en,1.0
 Arshdeep Masih,Arshdeep Masih,PERSON,0.0,0.0,en,1.0
 Sunil Masih,Sunil Masih,PERSON,0.0,0.0,en,1.0
-Nitin Nabins,Nitin Nabins,PERSON,0.0,0.0,en,1.0
 New Glenn,New Glenn,PERSON,0.3181818181818182,0.6772727272727272,en,1.0
 tomorrowMet Éireann,tomorrowMet Éireann,PERSON,0.0,0.25,en,1.0
 Andrew Dyer,Andrew Dyer,PERSON,0.7,0.6000000000000001,en,1.0
