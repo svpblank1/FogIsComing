@@ -7,5 +7,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 +fog slow down,en,Mitigation,#00ff00,#00ff00,3,0.0391421426928087
 +fog climate change,en,Causes,#00ffff,#00ffff,3,0.0386872524739795
 +fog alert,en,Adaptation,#0000ff,#0000ff,3,0.0373771935418446
-+fog warning system,en,Adaptation,#0000ff,#0000ff,3,0.035589432823138166
-+fog dewpoint,en,Causes,#00ffff,#00ffff,1,4.3817958994955066e-05
++fog warning system,en,Adaptation,#0000ff,#0000ff,3,0.0355894328231381
++fog dewpoint,en,Causes,#00ffff,#00ffff,1,3.72452651457118e-05
