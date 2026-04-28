@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 +fog accident,en,Impacts,#ffff00,#ffff00,3,0.0448219606481099
-+fog light,en,Mitigation,#00ff00,#00ff00,3,0.04229157090423666
++fog light,en,Mitigation,#00ff00,#00ff00,3,0.0422915709042366
 +fog weather,en,Hazard,#ff0000,#ff0000,3,0.039031858192231
-+fog climate change,en,Causes,#00ffff,#00ffff,3,0.0387921269716283
++fog climate change,en,Causes,#00ffff,#00ffff,3,0.037927957925884055
 +fog alert,en,Adaptation,#0000ff,#0000ff,3,0.0352997944253621
 +fog warning system,en,Adaptation,#0000ff,#0000ff,3,0.0350633992125419
 +fog flights,en,Impacts,#ffff00,#ffff00,2,0.0324739363898937
