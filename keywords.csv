@@ -8,4 +8,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 +foggy conditions,en,Hazard,#ff0000,#ff0000,2,0.0295977880184853
 +fog slow down,en,Mitigation,#00ff00,#00ff00,3,0.0261970999259638
 +fog flights,en,Impacts,#ffff00,#ffff00,1,0.0238653738230785
-+fog dewpoint,en,Causes,#00ffff,#00ffff,1,2.7825043823179357e-05
++fog dewpoint,en,Causes,#00ffff,#00ffff,1,2.3651287249702456e-05
