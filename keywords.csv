@@ -8,4 +8,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 +fog accident,en,Impacts,#ffff00,#ffff00,3,0.0330859328860914
 +fog flights,en,Impacts,#ffff00,#ffff00,2,0.0279946200259723
 +fog alert,en,Adaptation,#0000ff,#0000ff,3,0.0270948705565317
-+fog dewpoint,en,Causes,#00ffff,#00ffff,1,0.0005563660824211
++fog dewpoint,en,Causes,#00ffff,#00ffff,1,0.000622926170057935
