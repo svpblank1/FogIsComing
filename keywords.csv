@@ -8,4 +8,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 +fog slow down,en,Mitigation,#00ff00,#00ff00,3,0.0275713018349045
 +fog alert,en,Adaptation,#0000ff,#0000ff,3,0.0270948705565317
 +fog flights,en,Impacts,#ffff00,#ffff00,1,0.0237958020220764
-+fog dewpoint,en,Causes,#00ffff,#00ffff,1,0.001804834455412725
++fog dewpoint,en,Causes,#00ffff,#00ffff,1,0.0018341392871007948
