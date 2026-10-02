@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 +fog light,en,Mitigation,#00ff00,#00ff00,3,0.033558595019256
 +fog weather,en,Hazard,#ff0000,#ff0000,3,0.0333877526730935
 +fog accident,en,Impacts,#ffff00,#ffff00,3,0.0327393653913996
-+fog warning system,en,Adaptation,#0000ff,#0000ff,3,0.0298536003035722
++fog warning system,en,Adaptation,#0000ff,#0000ff,3,0.02837685025803637
 +fog slow down,en,Mitigation,#00ff00,#00ff00,3,0.0275713018349045
 +foggy conditions,en,Hazard,#ff0000,#ff0000,3,0.0263854596811371
 +fog flights,en,Impacts,#ffff00,#ffff00,1,0.0237958020220764
 +fog alert,en,Adaptation,#0000ff,#0000ff,2,0.0230315099730519
-+fog dewpoint,en,Causes,#00ffff,#00ffff,1,0.00151324988956788
++fog dewpoint,en,Causes,#00ffff,#00ffff,1,0.0015132498895678
